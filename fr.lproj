@@ -1,0 +1,246 @@
+"MAIN_PREFERENCES_HEADER" = "Paramètres Snapchat++ by Moha";
+"DISABLEHOLDTOVIEW" = "Désactiver Hold To View";
+"DISABLEHOLDTOVIEW_DESCRIPTION" = "Ne doit plus contenir l'image / la vidéo à afficher. Une fois activé, cliquez sur 'X' en bas à gauche de l'écran pour quitter l'image / la vidéo sans marquage comme lu ou le symbole de l'oeil à marquer comme lu.";
+"PROTECTAPPWITHPASSWORD" = "Activer le mot de passe ou TouchID";
+"PROTECTAPPWITHPASSWORD_DESCRIPTION" = "Ajouter un mot de passe ou TouchID au démarrage de Snapchat - 3 Essais avant le verrouillage (nécessitant une réinitialisation matérielle)";
+"SAVETO" = "Enregistrer les médias à";
+"ADDITIONAL_SETTINGS" = "Paramètres Snapchat++ by Moha";
+"SAVEDMEDIA" = "Médias sauvegardés";
+"MANAGE" = "Gérer";
+"LOCATION" = "Emplacement";
+"ALBUM_NAME" = "Nom de l'album";
+"ONECLICKSAVE" = "Sauvegarde en un clic";
+"ONECLICKSAVE_DESCRIPTION" = "Sauvegarde en un clic sur l'emplacement souhaité";
+"AUTOSAVEINCOMING" = "Sauvegarde automatique des snaps entrants";
+"AUTOSAVEINCOMING_DESCRIPTION" = "sauvegarde automatique des snaps reçu";
+"SELECTIVE_AUTOSAVEINCOMING" = "Activer la sauvegarde auto";
+"SELECTED_USERS" = "Amis sélectionnés";
+"AUTOSAVEOUTGOING" = "Sauvegarde automatique des snaps sortants";
+"AUTOSAVEOUTGOING_DESCRIPTION" = "sauvegarder automatiquement les snaps envoyés";
+"DISABLECAMERASHUTTERSOUND" = "Désactiver le son de l'obturateur";
+"AUTOSAVE_NOTIFICATION" = "Notifications automatiques";
+"AUTOSAVE_NOTIFICATION_DESC" = "Afficher une notification de barre d'état lorsqu'un snap est sauvegardé automatiquement";
+"DISABLECAMERASHUTTERSOUND_DESCRIPTION" = "Désactiver le son de l'obturateur lors de la prise de photo";
+
+// Autosave Stories
+"STORIESSAVESETTINGS" = "Paramètres de sauvegarde automatique des stories";
+"STORIESSAVESETTINGS_DESCRIPTION" = "Gérer les stories à sauvegarder et où les sauver";
+"AUTOSAVE_STORIES" = "sauvegarder automatiquement des stories";
+"AUTOSAVE_STORIES_DESC" = "Sauvegardez les stories que vous chargez lors de la visualisation";
+"AUTOSAVE_STORIES_NOTIFICATION_DESC" = "Afficher une notification de la barre d'état lorsqu'une stories est enregistrée automatiquement";
+"STORIES_MEDIA_VAULT" = "Stories Vault";
+"STORIES_MEDIA_VAULT_DESC" = "Accès aux stories enregistrées";
+
+"DONTSENDSTORYREADREQUEST" = "N'envoyez pas de demande de lecture de stories";
+"DONTSENDSTORYREADREQUEST_DESCRIPTION" = "Votre ami ne verra pas que vous avez vu leur stories";
+"TRIGGERSNAPWITHVOLUMEUP" = "Prendre une photo avec Activator";
+"TRIGGERSNAPWITHVOLUMEUP_DESCRIPTION" = "Choisissez votre action personnalisée pour déclencher un activateur instantané (nécessite Activator)";
+"TEMPERATURE" = "Temperature";
+"SPOOFTEMPERATUREF" = "Spoof F";
+"SPOOFTEMPERATUREF_DESCRIPTION" = "Overwrite and set F temperature";
+"SPOOFTEMPERATUREC" = "Spoof C";
+"SPOOFTEMPERATUREC_DESCRIPTION" = "Overwrite and set C temperature";
+"CLEARBADGESONEXIT" = "Effacer les badges à la sortie";
+"CLEARBADGESONEXIT_DESCRIPTION" = "Supprimez tous les badges sur l'icône snapchat en quittant l'application";
+"STATUSBARICONNOTIFICATION" = "Afficher l'icône Snapchat dans la barre d'état";
+"STATUSBARICONNOTIFICATION_DESCRIPTION" = "Chaque fois que vous recevez un nouveau bouton, l'icône fantôme dans la barre d'état apparaîtra pour vous signaler";
+"ALWAYSSHOWFEEDSUBLABELS" = "Afficher toujours des sublimations";
+"ALWAYSSHOWFEEDSUBLABELS_DESCRIPTION" = "Informations sur l'étiquette d'alimentation supplémentaire";
+"PASSWORDPROTECTSAVEDMEDIA" = "PProtection par mot de passe";
+"PASSWORDPROTECTSAVEDMEDIA_DESCRIPTION" = "Saisissez le mot de passe pour afficher les snaps";
+
+"INCOMING_MEDIA" = "Médias entrants";
+"INCOMING_MEDIA_DESCRIPTION" = "Images / vidéos auto-enregistrées que vous avez reçues";
+"OUTGOING_MEDIA" = "Médias sortants";
+"OUTGOING_MEDIA_DESCRIPTION" = "Images / vidéos auto-enregistrées que vous avez envoyées";
+"AUTOLOAD" = "Gérer le téléchargement automatique";
+"AUTOLOADSNAPS" = "Désactiver Autoload de Snaps";
+"AUTOLOADSNAPS_DESCRIPTION" = "Activé par défaut dans Snapcat. Activer le commutateur pour télécharger manuellement des snaps";
+"AUTOLOADSTORIES" = "Désactiver Autoload of Stories";
+"AUTOLOADSTORIES_DESCRIPTION" = "Activé par défaut dans Snapcat. Activez ce commutateur pour télécharger manuellement les stories";
+"AUTOLOADDISCOVER" = "Désactiver Autoload de Discover";
+"AUTOLOADDISCOVER_DESCRIPTION" = "TEnvoyé par défaut dans Snapcat. Activez ce commutateur pour télécharger manuellement les objets à découvrir";
+
+"SHARE" = "Partage";
+"SAVING" = "sauvegarder";
+"SAVED" = "Enregistré";
+"FAILED" = "Échoué";
+"SENT" = "Envoyer";
+"POSTED" = "Publié";
+"TWEETED" = "Tweeted";
+"COPIED" = "Copier";
+"PRINTED" = "Imprimer";
+"SHARED" = "Partager";
+"ADDED" = "Ajouter";
+
+"GP_SAVE_TO_CAMERA_ROLL" = "Enregistrer dans le rouleau de caméra téléphonique";
+"GP_SAVE_TO_ALBUM" = "Album Enregistrer dans le téléphone";
+"GP_SAVE_TO_VAULT" = "Enregistrer dans SC + Vault";
+
+"SAVETOSETTING" = "Paramètres pour l'enregistrement de Snaps";
+"SAVETOSETTING_DESCRIPTION" = "Les paramètres pour déterminer les sorties à enregistrer et l'endroit où les enregistrer";
+"SAVEDMEDIASETTINGS" = "Snapchat + Media Vault";
+"SAVEDMEDIASETTINGS_DESCRIPTION" = "Coffre-fort média des snapchat enregistrés (entrants / sortants) et Paramètres de sécurité du coffre-fort";
+"DROPBOXSYNCSETTINGS" = "Paramètres de liaison DropBox";
+"DROPBOXSYNCSETTINGS_DESCRIPTION" = "Paramètres pour les comptes liés à DropBox";
+"MANAGESETTINGS" = "Paramètres de visibilité et de spoofing";
+"MANAGESETTINGS_DESCRIPTION" = "Paramètres pour contrôler les paramètres de confidentialité Snapchat et la capacité de falsifier certains éléments Snapchat.";
+"AUTOLOADSETTINGS" = "Paramètres Autoload";
+"AUTOLOADSETTINGS_DESCRIPTION" = "Activer ou désactiver les paramètres de chargement automatique Snapchat pour économiser la bande passante du téléphone";
+
+"CHAT_BLOCK_BUTTON" = "Bouton de bloc de conversation";
+"CHAT_BLOCK_BUTTON_DESC" = "Ajoute le bouton de bloc en haut à gauche d'un chat pour bloquer directement un ami.";
+
+"SPOOF_SPEED_KILOMETERS" = "Spoof Kilomètres par heure";
+"SPEED" = "Set Kilometers";
+"SPOOF_SPEED_KILOMETERS_DESC" = "Activer et régler la vitesse de spoof Kilometers";
+
+"SPOOF_SPEED_METERS" = "Miles par jour par heure";
+"SPEED_SPOOF" = "Set Miles";
+"SPOOF_SPEED_METERS_DESC" = "Activer et définir la vitesse pour pardonner des Miles";
+"SPOOF_MINUTE" = "Spoof Minute of Time";
+"MINUTE" = "Set Minute";
+"SPOOF_HOUR" = "Spoof Hour of Time";
+"HOUR" = "Set Hour";
+"SPOOF_IS_AM" = "Spoof AM";
+"SPOOF_FORCE_AMPM_FORMAT" = "Force AM/PM Format";
+"SPOOF_TIME_DESC" = "Contrôles de spoof time filters dans Snapchat";
+
+"HEY_THERE_ALERT" = "Salut les Gens";
+"APP_RESTART_REQUIRED" = "L'activation de cette option nécessite l'amorçage de l'application!";
+"CLOSE_APP" = "Fermer l'application";
+"CANCEL" = "Annuler";
+"SUPPORT_HEADER" = "Support";
+"SUPPORT_REMOVE_ADS_TITLE" = "Application modifier par @mohadu313";
+"LOGOUT_FROM_UAPP" = "Déconnexion de Snap +";
+"WARNING" = "Attention!";
+
+"NO_THANKS_ALERT" = "Non merci";
+"TWEET_TO_REMOVE_ADS" = "Tweeting supprimera les annonces TWTR ++ pendant 1,5 semaines. Vous pouvez tweeter GRATUITEMENT chaque semaine. Votre soutien est génial!";
+"PASSCODE_ALREADY_EXISTS" = "Le code d'accès existe déjà";
+"DELETE_PASSCODE_TO_SET_NEW" = "Pour définir un nouveau, supprimez d'abord l'élément existant";
+"OK" = "Ok";
+"MISSING_INFORMATION" = "Information manquante";
+"FILL_OUT_ALL_INFO" = "Assurez-vous de remplir toutes les informations!";
+"PAYMENT_THANK_YOU_TITLE" = "Merci!";
+"PAYMENT_CONFIRMATION" = "Vous avez supprimé les annonces pour Snap + à vie . Merci pour votre soutien";
+"PAYMENT_OK" = "Okay!";
+"ADD_REMOVAL" = "Snap++ suppression d'annonces";
+"AD_SETTINGS" = "Paramètres de suppression des annonces";
+"UA_PPTTWEAK_TWEET_PROMO_TEXT" = "J'utilise Snap++ pour Snapchat crée par @unlimapps et modifier par @mohadu313  pour ajouter de nouvelles fonctionnalités à Snapchat!";
+
+"SCPP_ADS_MESSAGE_TITLE" = "Salut les gens!";
+"SCPP_ADS_MESSAGE" = "Application Snapachat++ crée par @unlimapps et modifiée par @ mohadu313 n'oublier pas de m'ajouter sur snap u-cf et Yougraph et Rayanairline sur Snapchat";
+
+"ENABLEDEFAULTFACES" = "Activer les visages supprimés";
+"ENABLEDEFAULTFACES_DESCRIPTION" = "Montrez les visages que Snapchat a retirés.";
+
+"ENABLECUSTOMFACES" = "Activer les visages personnalisés";
+"ENABLECUSTOMFACES_DESCRIPTION" = "Afficher les visages personnalisés à partir de Snap +";
+
+"ENABLELOCKEDFACES" = "Activer les visages verrouillés";
+
+"ENABLECUSTOMFILTERS" = "Activer les filtres personnalisés";
+"ENABLECUSTOMFILTERS_DESCRIPTION" = "Afficher les filtres personnalisés à partir de Snap +";
+
+"FILTERFACESSETTINGS" = "Paramètres de filtrage et de visages";
+"FILTERFACESSETTINGS_DESCRIPTION" = "Modifier les paramètres des filtres et des visages personnalisés";
+
+"MEDIA_VAULT" = "Media Vault";
+"MEDIA_VAULT_DESCRIPTION" = "Accès enregistré aux médias entrants / sortants";
+
+"SYNC_WITH_DROPBOX_INCOMING" = "Synchroniser Entrée avec Dropbox";
+"SYNC_INCOMING_MEDIA_DESCRIPTION" = "Activer la synchronisation des supports entrants enregistrés avec Dropbox";
+
+"SYNC_WITH_DROPBOX_OUTGOING" = "Synchroniser sortant avec Dropbox";
+"SYNC_OUTGOING_MEDIA_DESCRIPTION" = "Activer la synchronisation des supports sortants enregistrés avec Dropbox";
+"MORE_SETTINGS" = "Contact / Plus";
+
+"SC_ADS_MESSAGE_TITLE" = "Salut les gens!";
+"SC_ADS_MESSAGE" = "Application Snapachat++ crée par @unlimapps et modifiée par @ mohadu313 n'oublier pas de m'ajouter sur snap u-cf et Yougraph et Rayanairline sur Snapchat";
+
+//Snaps Settings
+"SNAPS_SETTINGS" = "Réglages Snaps";
+"SNAPS_SETTINGS_DESCRIPTION" = "Paramètres pour visualiser et interagir avec des clips";
+"ALWAYSKEEPSNAPS" = "Vue illimitée des snaps";
+"ALWAYSKEEPSNAPS_DESCRIPTION" = "Les snaps ne disparaissent plus après la vue initiale. Permet d'autoriser l'affichage des snaps autant de fois que vous le souhaitez.";
+
+"ALWAYSKEEPGROUPSNAPS" = "toujour laisser les snaps de groupe en illimitées";
+"ALWAYSKEEPGROUPSNAPS_DESCRIPTION" = "Les Snaps de groupe ne disparaissent plus après la vue initiale. Permet d'autoriser l'affichage des snaps autant de fois que vous le souhaitez.";
+
+"HIDE_SNAP_TIMER" = "Cacher le compteur snapchat";
+"HIDE_SNAP_TIMER_DESC" = "Cacher le compteur sanp pendan le visionage ";
+"SAVETEXTMESSAGES" = "Enregistrer les messages de chat";
+"SAVETEXTMESSAGES_DESCRIPTION" = "Enregistrement automatique des messages de chat";
+"SHARE_CHAT_TEXT" = "Partager / copier le texte du chat";
+"SHARE_CHAT_TEXT_DESC" = "Appuyez longuement sur les messages de conversation pour copier ou partager le texte";
+
+//Privacy Settings
+"PRIVACY_SETTINGS" = "Paramètres de confidentialité";
+"PRIVACY_SETTINGS_DESCRIPTION" = "Gérer les paramètres de confidentialité, c'est-à-dire saisir des reçus";
+"DISABLEISTYPING" = "Désactiver les notifications de frappe";
+"DISABLEISTYPING_DESCRIPTION" = "D'autres personnes ne recevront pas le reçu 'Is Typing'";
+"DISABLEISTYPING_WHITELIST_DESCRIPTION" = "Seuls les contacts inscrits en liste blanche recevront les reçus 'Is Typing'";
+"DISABLEISTYPING_BLACKLIST_DESCRIPTION" = "Tout le monde, sauf les contacts en liste noire, recevra les reçus 'Is Typing'";
+"TYPING_WHITELIST" = "Liste blanche";
+"TYPING_BLACKLIST" = "Liste noire";
+"DISABLE_SCREENSHOT_NOTIFICATION" = "Désactiver les reçus de capture d'écran";
+"DISABLE_SCREENSHOT_NOTIFICATION_DESC" = "Snapchat ne détectera pas lorsque vous prenez une capture d'écran";
+"SECURITY_SETTINGS" = "Les paramètres de sécurité";
+"SET_PASSCODE" = "Définir le code Snapchat";
+"SET_VAULT_PASSCODE" = "Définir le code de la galerie";
+"ENTER_PASSWORD" = "Entrez le code Snapchat";
+"ENTER_VAULT_PASSWORD" = "Entrez le code de la galerie";
+"DELETE_PASSCODE" = "Supprimer le code Snapchat";
+"DELETE_VAULT_PASSCODE" = "Supprimer le mot de passe de la galerie";
+"NO_PASSCODE" = "Pas de code Snapchat";
+"NO_VAULT_PASSCODE" = "Pas de code de la galerie";
+"ENABLE_TOUCH_ID" = "Activer l'ID tactile";
+
+//Appearance Settings
+"APPEARANCE_SETTINGS" = "Paramètres d'apparence";
+"APPEARANCE_SETTINGS_DESCRIPTION" = "Gérer l'apperance de Snapchat et Snap +";
+"DISABLE_STORIES_REDESIGN" = "Disable Stories Re-Design";
+"DISABLE_STORIES_REDESIGN_DESC" = "Désactivez la nouvelle refonte de stories et utilisez plutôt l'ancien";
+"DISABLE_NEW_TAB_BAR" = "Désactiver la barre de tabulation nouvelle";
+"DISABLE_NEW_TAB_BAR_DESC" = "Désactiver la nouvelle conception de la barre d'onglets";
+"STEALTH_MODE" = "tweaks cacher";
+"STEALTH_MODE_DESC" = "Activer pour cacher tous les éléments de l'interface utilisateur de tweak. \ Notez: si vous l'activé, vous pouvez accéder aux préférences tweak à partir des paramètres snapchat.";
+
+//Usage Settings
+"USAGE_SETTINGS" = "Paramètres d'utilisation";
+"USAGE_SETTINGS_DESCRIPTION" = "Gérer comment vous utilisez Snapchat et Snap +";
+"DEFAULT_VIEW_ONLAUNCH" = "Vue de lancement";
+"DEFAULT_VIEW_ONLAUNCH_DESC" = "Choisissez la vue à afficher lorsque Snapchat est lancé";
+"DEFAULT_LAUNCH_VIEW" = "Défault";
+"LEFT_LAUNCH_VIEW" = "Chats";
+"RIGHT_LAUNCH_VIEW" = "Stories";
+"FAR_RIGHT_LAUNCH_VIEW" = "Discover";
+"ENABLE_IMAGE_EDITING" = "L'édition d'image";
+"ENABLE_IMAGE_EDITING_DESC" = "Remplacez le bouton du tiroir ligne par un éditeur d'image complet qui comprend un tiroir linéaire plus personnalisé.";
+"TAP_TO_RECORD_VIDEOS" = "Appuyez pour enregistrer des vidéos";
+"TAP_TO_RECORD_VIDEOS_DESC" = "Désactivez le geste de saisie pour enregistrer des vidéos, juste après avoir appuyé longuement, vous pouvez la relâcher et appuyez à nouveau pour arrêter l'enregistrement";
+"RECORDING_LENGTH" = "Augmenter la longueur de la vidéo";
+"RECORDING_LENGTH_DESC" = "Augmenter la durée d'enregistrement vidéo de 10 secondes à 50";
+"SHOW_RECORDING_SECONDS" = "Afficher les secondes d'enregistrement";
+"SHOW_RECORDING_SECONDS_DESC" = "Ajoutez le nombre de secondes sur la minuterie de l'appareil photo pendant l'enregistrement des vidéos.";
+
+//Stories Settings
+"STORIES_SETTINGS" = "Paramètres des stories";
+"STORIES_SETTINGS_DESCRIPTION" = "Gérer comment les stories fonctionnent sur Snapchat";
+"HIDE_LIVE_STORIES" = "Masquer les stories en direct";
+"HIDE_DISCOVER_STORIES" = "Cacher les stories de découverte";
+"HIDE_STORIES_DESC" = "Activer pour masquer les stories";
+"DISABLE_STORIES_AUTOSWITCH" = "désactiver le changemen automatique des stories";
+"DISABLE_STORIES_AUTOSWITCH_DESC" = "Lorsque vous regardez des stories, il ne passera plus à la prochaine vidéo / photo jusqu'à ce que vous cliquez dessus";
+"DISABLE_STORIES_AUTOADVANCE" = "Disable Story Auto Advance";
+"DISABLE_STORIES_AUTOADVANCE_DESC" = "Lorsqu'on regarde les stories récentes, il ne passera plus aux nouvelles stories suivantes";
+"ENABLE_MUTED_USERS" = "Activer les utilisateurs muets";
+"MUTED_USERS" = "utilisateurs muets";
+"MUTED_USERS_DESCRIPTION" = "Sélectionnez vos amis qui cachent leurs mises à jour de stories";
+
+"SC_MOHADU_MESSAGE_TITLE" = "Salut les gens!";
+"SC_MOHADU_MESSAGE" = "Application Snapachat++ crée par @unlimapps et modifiée par @ mohadu313 n'oublier pas de m'ajouter sur snap u-cf et Yougraph et Rayanairline sur Snapchat ";
+
+"DISABLE_EVENT_LOGGING" = "Désactiver l'enregistrement des événements";
+"DISABLE_EVENT_LOGGING_DESC" = "Désactiver l'enregistrement par Snapchat!";
