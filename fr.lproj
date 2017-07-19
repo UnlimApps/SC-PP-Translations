@@ -127,10 +127,10 @@
 "PAYMENT_OK" = "Okay!";
 "ADD_REMOVAL" = "Snap++ suppression d'annonces";
 "AD_SETTINGS" = "Paramètres de suppression des annonces";
-"UA_PPTTWEAK_TWEET_PROMO_TEXT" = "J'utilise Snap++ pour Snapchat par @mohadu313  pour ajouter de nouvelles fonctionnalités à Snapchat!";
+"UA_PPTTWEAK_TWEET_PROMO_TEXT" = "J'utilise Snap++ pour Snapchat crée par @unlimapps et modifier par @mohadu313  pour ajouter de nouvelles fonctionnalités à Snapchat!";
 
 "SCPP_ADS_MESSAGE_TITLE" = "Salut les gens!";
-"SCPP_ADS_MESSAGE" = "Application Snapachat++ crée et modifiée par @ mohadu313 n'oublier pas de m'ajouter sur snap u-cf et Yougraph et Rayanairline sur Snapchat";
+"SCPP_ADS_MESSAGE" = "Application Snapachat++ crée par @unlimapps et modifiée par @ mohadu313 n'oublier pas de m'ajouter sur snap u-cf et Yougraph et Rayanairline sur Snapchat";
 
 "ENABLEDEFAULTFACES" = "Activer les visages supprimés";
 "ENABLEDEFAULTFACES_DESCRIPTION" = "Montrez les visages que Snapchat a retirés.";
@@ -157,7 +157,7 @@
 "MORE_SETTINGS" = "Contact / Plus";
 
 "SC_ADS_MESSAGE_TITLE" = "Salut les gens!";
-"SC_ADS_MESSAGE" = "Application Snapachat++ crée et modifiée par @ mohadu313 n'oublier pas de m'ajouter sur snap u-cf et Yougraph et Rayanairline sur Snapchat";
+"SC_ADS_MESSAGE" = "Application Snapachat++ crée par @unlimapps et modifiée par @ mohadu313 n'oublier pas de m'ajouter sur snap u-cf et Yougraph et Rayanairline sur Snapchat";
 
 //Snaps Settings
 "SNAPS_SETTINGS" = "Réglages Snaps";
@@ -240,7 +240,7 @@
 "MUTED_USERS_DESCRIPTION" = "Sélectionnez vos amis qui cachent leurs mises à jour de stories";
 
 "SC_MOHADU_MESSAGE_TITLE" = "Salut les gens!";
-"SC_MOHADU_MESSAGE" = "Application Snapachat++ crée et modifiée par @ mohadu313 n'oublier pas de m'ajouter sur snap u-cf et Yougraph et Rayanairline sur Snapchat ";
+"SC_MOHADU_MESSAGE" = "Application Snapachat++ crée par @unlimapps et modifiée par @ mohadu313 n'oublier pas de m'ajouter sur snap u-cf et Yougraph et Rayanairline sur Snapchat ";
 
 "DISABLE_EVENT_LOGGING" = "Désactiver l'enregistrement des événements";
 "DISABLE_EVENT_LOGGING_DESC" = "Désactiver l'enregistrement par Snapchat!";
