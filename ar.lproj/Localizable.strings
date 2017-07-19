@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>MORE_SETTINGS</key>
+<string>الاتصال/المزيد</string>
+<key>AD_SETTINGS</key>
+<string>إعدادات إزالة الإعلانات</string>
+	<key>STORIES_SETTINGS</key>
+	<string>إعدادات الستوري</string>
+	<key>STORIES_SETTINGS_DESCRIPTION</key>
+	<string>إدارة كيفية عمل ستوري عن سناب شات</string>
+	<key>USAGE_SETTINGS</key>
+	<string>إعدادات الاستخدام</string>
+	<key>USAGE_SETTINGS_DESCRIPTION</key>
+	<string>إدارة كيفية استخدام سناب شات والأدوات الإضافية +</string>
+	<key>APPEARANCE_SETTINGS</key>
+	<string>إعدادات المظهر</string>
+	<key>APPEARANCE_SETTINGS_DESCRIPTION</key>
+	<string>إدارة المظهر سناب شات والأدوات الإضافية +</string>
+	<key>SNAPS_SETTINGS</key>
+	<string>إعدادات سناب بلس من ابو نذير</string>
+	<key>SNAPS_SETTINGS_DESCRIPTION</key>
+	<string>إعدادات للعرض والتفاعل مع السناب بلس</string>
+	<key>PRIVACY_SETTINGS</key>
+	<string>اعدادات الخصوصيه</string>
+	<key>PRIVACY_SETTINGS_DESCRIPTION</key>
+	<string>إدارة أي إعدادات الخصوصية </string>
+	<key>ADDED</key>
+	<string>مضاف</string>
+	<key>ADDITIONAL_SETTINGS</key>
+	<string>اعدادات السناب شات بلس</string>
+	<key>ADD_REMOVAL</key>
+	<string>Snap + Ad Removal</string>
+	<key>ALBUM_NAME</key>
+	<string>اسم الالبوم</string>
+	<key>ALWAYSKEEPSNAPS</key>
+	<string>دائمن ابقاء السنابات</string>
+	<key>ALWAYSKEEPSNAPS_DESCRIPTION</key>
+	<string>السنابات ماراح تختفي بعد ماتشوفها اول مرة وتفعيل هالخيار بيخليك تشوفها كما تريد.</string>
+	<key>ALWAYSSHOWFEEDSUBLABELS</key>
+	<string>اظهار دائمن sublabels</string>
+	<key>ALWAYSSHOWFEEDSUBLABELS_DESCRIPTION</key>
+	<string>عمود معلومات اضافية</string>
+	<key>APP_RESTART_REQUIRED</key>
+	<string>تفعيل هذا الخيار يتطلب اعادة تشغيل التطبيق</string>
+	<key>AUTOLOAD</key>
+	<string>ادارة التحميل التلقائي</string>
+	<key>AUTOLOADDISCOVER</key>
+	<string>تعطيل التحميل التلقائي لاكتشف</string>
+	<key>AUTOLOADDISCOVER_DESCRIPTION</key>
+	<string>فعلها عشان يوقف التحميل التلقائي لديسكفر وتبدا انت تحملها يدوي</string>
+	<key>AUTOLOADSETTINGS</key>
+	<string>اعدادات التحميل التلقائي</string>
+	<key>AUTOLOADSETTINGS_DESCRIPTION</key>
+	<string>تعطيل او تفعيل اعدادات التحميل التلقائي للسناب شات عشان توفر بيانات النت</string>
+	<key>AUTOLOADSNAPS</key>
+	<string>تعطيل التحميل التلقائي للسنابات</string>
+	<key>AUTOLOADSNAPS_DESCRIPTION</key>
+	<string>مفعلة بشكل افتراضي بالسناب شات فعل هالخيار عشان يكون تحميل سنابات يدوي</string>
+	<key>AUTOLOADSTORIES</key>
+	<string>تعطيل تحميل الستوري تلقائي</string>
+	<key>AUTOLOADSTORIES_DESCRIPTION</key>
+	<string>فعلها عشان تبدا انت بشكل يدوي تحمل الستوري</string>
+	<key>AUTOSAVEINCOMING</key>
+	<string>حفظ تلقائي للسنابات الواردة</string>
+	<key>AUTOSAVEINCOMING_DESCRIPTION</key>
+	<string>حفظ تلقائي للسنابات الي توصلك</string>
+	<key>AUTOSAVEOUTGOING</key>
+	<string>حفظ تلقائي للسنابات الصادرة</string>
+	<key>AUTOSAVEOUTGOING_DESCRIPTION</key>
+	<string>حفظ تلقائي للسنابات الي ترسلها انت</string>
+	<key>AUTOSAVE_NOTIFICATION</key>
+	<string>إشعار الحفظ التلقائي</string>
+	<key>AUTOSAVE_NOTIFICATION_DESC</key>
+	<string></string>
+	<key>AUTOSAVE_STORIES</key>
+	<string>حفظ تلقائي للستوري</string>
+	<key>AUTOSAVE_STORIES_DESC</key>
+	<string>حفظ تلقائي للستوري عند رؤيتها</string>
+	<key>AUTOSAVE_STORIES_NOTIFICATION_DESC</key>
+	<string>إشعار الحفظ التلقائي</string>
+	<key>CANCEL</key>
+	<string>الغاء</string>
+	<key>CHAT_BLOCK_BUTTON</key>
+	<string>زر البلوك للمحادثة</string>
+	<key>CHAT_BLOCK_BUTTON_DESC</key>
+	<string>اضافة رز البلوك فوق يسار بالمحادثة عشان تبلك اي واحد مباشرة</string>
+	<key>CLEARBADGESONEXIT</key>
+	<string>ازالة اشعارات من ايقونة التطبيق عند الخروج</string>
+	<key>CLEARBADGESONEXIT_DESCRIPTION</key>
+	<string>ازالة جميع الشارات على ايقونة السناب شات عند الخروج من التطبيق</string>
+	<key>CLOSE_APP</key>
+	<string>اغلاق التطبيق</string>
+	<key>COPIED</key>
+	<string>نسخ</string>
+	<key>DEFAULT_LAUNCH_VIEW</key>
+	<string>الافتراضي</string>
+	<key>DEFAULT_VIEW_ONLAUNCH</key>
+	<string>مشاهدة بعد الفتح</string>
+	<key>DEFAULT_VIEW_ONLAUNCH_DESC</key>
+	<string>اختار وش تبي تشوف او يطلع لك اول ماتفتح السناب شات</string>
+	<key>DELETE_PASSCODE</key>
+	<string>حذف الرقم السري الي حطيته</string>
+	<key>DELETE_PASSCODE_TO_SET_NEW</key>
+	<string>عشان تحط واحد جديد لازم اول تحذف الي موجود</string>
+	<key>DISABLECAMERASHUTTERSOUND</key>
+	<string>تعطيل صوت الكاميرا</string>
+	<key>DISABLECAMERASHUTTERSOUND_DESCRIPTION</key>
+	<string>تعطيل صوت الكاميرا عند التقاط الصور الي يقول تشوووك</string>
+	<key>DISABLECAMERATENSECLIMIT</key>
+	<string>تعطيل حد الفيديو 10 ثواني</string>
+	<key>DISABLECAMERATENSECLIMIT_DESCRIPTION</key>
+	<string>ازالة العشر ثواني حد فيديوات السناب</string>
+	<key>DISABLEHOLDTOVIEW</key>
+	<string>الغاء ضغط الاستمرار للعرض</string>
+	<key>DISABLEHOLDTOVIEW_DESCRIPTION</key>
+	<string>ليس عليك الضغط مع الاستمرار على الصورة او الفيديو لعرضها</string>
+	<key>DISABLEISTYPING</key>
+	<string>تعطيل انك جالس تكتب</string>
+	<key>DISABLEISTYPING_DESCRIPTION</key>
+	<string>صديقتك لن تتلقى اشعار بانك جالس تكتب</string>
+	<key>DISABLE_SCREENSHOT_NOTIFICATION</key>
+	<string>تعطيل التقاط الشاشة</string>
+	<key>DISABLE_SCREENSHOT_NOTIFICATION_DESC</key>
+	<string>سناب شات ماراح يكفشك لما تاخذ لقطة للشاشة</string>
+	<key>DISABLE_STORIES_AUTOADVANCE</key>
+	<string>تعطيل التنقل التلقائي للستوري</string>
+	<key>DISABLE_STORIES_AUTOADVANCE_DESC</key>
+	<string>لما تشوف جميع الستوريات لصديق ما يروح لستريات الصديق اللاحق</string>
+	<key>DISABLE_STORIES_AUTOSWITCH</key>
+	<string>تعطيل التشغيل التقائي للستوري</string>
+	<key>DISABLE_STORIES_AUTOSWITCH_DESC</key>
+	<string>لما تشوف الستوريات وتخلص وحدة مايروح للي بعدها من نفسه لين انت تظغط</string>
+	<key>DONTSENDSTORYREADREQUEST</key>
+	<string>لاترسل طلب قراءة الستوري</string>
+	<key>DONTSENDSTORYREADREQUEST_DESCRIPTION</key>
+	<string>صديقاتك ماراح يشوفون انك قريت ستورياتهم</string>
+	<key>DROPBOXSYNCSETTINGS</key>
+	<string>اعدادات ربط الدروب بوكس</string>
+	<key>DROPBOXSYNCSETTINGS_DESCRIPTION</key>
+	<string>اعدادات للدروب بوكس للحسابات المرتبطة</string>
+	<key>ENABLECUSTOMFACES</key>
+	<string>تفعيل الفيسات المخصصة</string>
+	<key>ENABLECUSTOMFACES_DESCRIPTION</key>
+	<string>اظهار الفيسات المخصصة من الاداة</string>
+	<key>ENABLECUSTOMFILTERS</key>
+	<string>تفعيل الفلاتر المخصصة</string>
+	<key>ENABLECUSTOMFILTERS_DESCRIPTION</key>
+	<string>اظهار الفلاتر المخصصة من الاداة</string>
+	<key>ENABLEDEFAULTFACES</key>
+	<string>تفعيل جميع فلاتر الوجه</string>
+	<key>ENABLEDEFAULTFACES_DESCRIPTION</key>
+	<string>اظهار جميع فلاتر الوجه حتى التي تمت ازالتها من سناب شات</string>
+	<key>ENABLE_IMAGE_EDITING</key>
+	<string>تحرير الصورة</string>
+	<key>ENABLE_IMAGE_EDITING_DESC</key>
+	<string>استبدال زر القلم مع محرر صور كامل والي يتضمن اكثر من خيار للتعديل على الصورة.</string>
+	<key>ENABLE_TOUCH_ID</key>
+	<string>تفعيل البصمة</string>
+	<key>ENTER_PASSWORD</key>
+	<string>ادخال الرقم السري</string>
+	<key>FAILED</key>
+	<string>فشل</string>
+	<key>FAR_RIGHT_LAUNCH_VIEW</key>
+	<string>اكتشف</string>
+	<key>FILL_OUT_ALL_INFO</key>
+	<string>Make sure you fill out all of the information!</string>
+	<key>FILTERFACESSETTINGS</key>
+	<string>اعدادات الفلاتر والوجوه</string>
+	<key>FILTERFACESSETTINGS_DESCRIPTION</key>
+	<string>مرحبا بكم في نسخة سناب شات بلس هذه نسخة معربة ومعدلة من آبو نذير هشام و irajae و يوسف الفاضل</string>
+	<key>GP_SAVE_TO_ALBUM</key>
+	<string>حفظ لالبوم بجهازك</string>
+	<key>GP_SAVE_TO_CAMERA_ROLL</key>
+	<string>حفظ بجهازك الاستديو</string>
+	<key>GP_SAVE_TO_VAULT</key>
+	<string>Save to SC+ Vault</string>
+	<key>HEY_THERE_ALERT</key>
+	<string>مرحبا بكم في نسخة سناب شات بلس هذه نسخة معربة ومعدلة من ابو نذير وهشام</string>
+	<key>HIDE_DISCOVER_STORIES</key>
+	<string>اخفاء ديسكفري</string>
+	<key>HIDE_DISCOVER_STORIES_DESC</key>
+	<string>فعلها عشان تخفي ستوري الديسكفري</string>
+	<key>HIDE_LIVE_STORIES</key>
+	<string>اخفاء لايف ستوري</string>
+	<key>HIDE_LIVE_STORIES_DESC</key>
+	<string>تفعيلها لاخفاء لايف ستوري</string>
+	<key>HIDE_SNAP_TIMER</key>
+	<string>اخفاء موقت السنابات</string>
+	<key>HIDE_SNAP_TIMER_DESC</key>
+	<string>ازالة موقت سنابات من اعلى يمين الشاشة</string>
+	<key>HOUR</key>
+	<string>حط الساعة</string>
+	<key>INCOMING_MEDIA</key>
+	<string>الميديا الواردة</string>
+	<key>INCOMING_MEDIA_DESCRIPTION</key>
+	<string>حفظ تلقائي للصور والفيديو الي توصلك</string>
+	<key>LEFT_LAUNCH_VIEW</key>
+	<string>المحادثات</string>
+	<key>LOCATION</key>
+	<string>موقع</string>
+	<key>LOGOUT_FROM_UAPP</key>
+	<string>Logout from Snap +</string>
+	<key>MAIN_PREFERENCES_HEADER</key>
+	<string> اعدادات السناب شات بلس @mohadu313</string>
+	<key>MANAGE</key>
+	<string>ادارة</string>
+	<key>MANAGESETTINGS</key>
+	<string>اعدادات النصب والاشيا الوهمية للسناب</string>
+	<key>MANAGESETTINGS_DESCRIPTION</key>
+	<string>اعدادات للتحكم باعدادات الخصوصية للسناب شات والقدرة عشان تخلي بعض الاشياء وهمية</string>
+	<key>MINUTE</key>
+	<string>حط الدقائق</string>
+	<key>MISSING_INFORMATION</key>
+	<string>معلومات مفقودة</string>
+	<key>NO_PASSCODE</key>
+	<string>No Passcode</string>
+	<key>NO_THANKS_ALERT</key>
+	<string>لاشكراً</string>
+	<key>OK</key>
+	<string>اوك</string>
+	<key>ONECLICKSAVE</key>
+	<string>حفظ بضغطة واحدة</string>
+	<key>ONECLICKSAVE_DESCRIPTION</key>
+	<string>بضغطة واحدة لحفظ الموقع المطلوب</string>
+	<key>OUTGOING_MEDIA</key>
+	<string>الميديا الصادرة</string>
+	<key>OUTGOING_MEDIA_DESCRIPTION</key>
+	<string>حفظ تلقائي للصور والفيديو لسناباتك الي ترسلها</string>
+	<key>PASSCODE_ALREADY_EXISTS</key>
+	<string>الرقم السري بالفعل موجود!</string>
+	<key>PASSWORDPROTECTSAVEDMEDIA</key>
+	<string>حماية كلمة السر</string>
+	<key>PASSWORDPROTECTSAVEDMEDIA_DESCRIPTION</key>
+	<string>ادخال كلمة السر لعرض السنابات</string>
+	<key>PAYMENT_CONFIRMATION</key>
+	<string>مرحبا بكم في نسخة سناب شات بلس هذه نسخة معربة ومعدلة من آبو نذير هشام و irajae و يوسف الفاضل</string>
+	<key>PAYMENT_OK</key>
+	<string>طيب</string>
+	<key>PAYMENT_THANK_YOU_TITLE</key>
+	<string>شكراً</string>
+	<key>POSTED</key>
+	<string>شارك</string>
+	<key>PRINTED</key>
+	<string>مطبوعة</string>
+	<key>PROTECTAPPWITHPASSWORD</key>
+	<string>تفعيل كلمة المرور او البصمة</string>
+	<key>PROTECTAPPWITHPASSWORD_DESCRIPTION</key>
+	<string>اضافة كلمة مرور لتطبيق السناب شات عند فتحه - بعد ثلاث محاولات خطا يقفل التطبيق وماعاد يفتح الى بعد ماتسوي هارد ريست للجهاز</string>
+	<key>RECORDING_LENGTH</key>
+	<string>زيادة مدة تصوير الفيديو</string>
+	<key>RECORDING_LENGTH_DESC</key>
+	<string>زيادة طول تسجيل فيديو من 10 ثواني الى خمشين ثانية</string>
+	<key>RIGHT_LAUNCH_VIEW</key>
+	<string>الستوريات</string>
+	<key>SAVED</key>
+	<string>حفظ</string>
+	<key>SAVEDMEDIA</key>
+	<string>الوسائط المحفوظة</string>
+	<key>SAVEDMEDIASETTINGS</key>
+	<string>محفظة السناب شات بلس</string>
+	<key>SAVEDMEDIASETTINGS_DESCRIPTION</key>
+	<string>محفظ سناب شات بلس هذي عشان تحفظ لك السنابات الواردة والصادرة بشكل امن</string>
+	<key>SAVETEXTMESSAGES</key>
+	<string>حفظ رسالة المحادثة</string>
+	<key>SAVETEXTMESSAGES_DESCRIPTION</key>
+	<string>حفظ رسائل المحادثات تلقائيا في الستريم</string>
+	<key>SAVETO</key>
+	<string>حفظ الملف في</string>
+	<key>SAVETOSETTING</key>
+	<string>اعدادات لحفظ السنابات</string>
+	<key>SAVETOSETTING_DESCRIPTION</key>
+	<string>اعدادات عشان وش السنابات الي تبي تحفظ ووين تبي تحفظهم</string>
+	<key>SAVING</key>
+	<string>حفظ</string>
+	<key>SECURITY_SETTINGS</key>
+	<string>اعدادات الامان</string>
+	<key>SENT</key>
+	<string>ارشلت</string>
+	<key>SET_PASSCODE</key>
+	<string>وضع رقم سري للسناب شات</string>
+	<key>SET_VAULT_PASSCODE</key>
+	<string>وضع رقم سري للصور</string>
+	<key>SHARE</key>
+	<string>مشاركة</string>
+	<key>SHARED</key>
+	<string>مشاركة</string>
+	<key>SHARE_CHAT_TEXT</key>
+	<string>مشاركة و نسخ نص المحادثات</string>
+	<key>SHARE_CHAT_TEXT_DESC</key>
+	<string>اضغط مع الاستمرار على رسائل المحادثة لنسخ لو مشاركة النص</string>
+	<key>SHOW_RECORDING_SECONDS</key>
+	<string>مشاهدة ثواني التصوير</string>
+	<key>SHOW_RECORDING_SECONDS_DESC</key>
+	<string>اظهار عداد الثواني وانت جالس تصور فيديو بوسط زر التسجيل الاحمر تطلع.</string>
+	<key>SPEED</key>
+	<string>حط الكيلو متر الي تبي</string>
+	<key>SPEED_SPOOF</key>
+	<string>حط الميل</string>
+	<key>SPOOFTEMPERATUREC</key>
+	<string>وهمية C</string>
+	<key>SPOOFTEMPERATUREC_DESCRIPTION</key>
+	<string> كتابة وضبط درجة حرارة C</string>
+	<key>SPOOFTEMPERATUREF</key>
+	<string>فهرهاينت وهمي</string>
+	<key>SPOOFTEMPERATUREF_DESCRIPTION</key>
+	<string>كتابة درجة حرارة وضبطها</string>
+	<key>SPOOF_FORCE_AMPM_FORMAT</key>
+	<string>اجبار AM/PM تنسيق</string>
+	<key>SPOOF_HOUR</key>
+	<string>ساعة وهمية</string>
+	<key>SPOOF_IS_AM</key>
+	<string>وهمي AM</string>
+	<key>SPOOF_MINUTE</key>
+	<string>دقائق وهمية</string>
+	<key>SPOOF_SPEED_KILOMETERS</key>
+	<string>سرعة كيلو متر وهمية</string>
+	<key>SPOOF_SPEED_KILOMETERS_DESC</key>
+	<string>تفعيل لوضع سرعة كيلو متر وهمية</string>
+	<key>SPOOF_SPEED_METERS</key>
+	<string>ميل وهمي</string>
+	<key>SPOOF_SPEED_METERS_DESC</key>
+	<string>فعل وضع الميل الوهمي للسرعة الي تبي</string>
+	<key>SPOOF_TIME_DESC</key>
+	<string>Controls to spoof time filters in Snapchat</string>
+	<key>STATUSBARICONNOTIFICATION</key>
+	<string>اظهار ايقونة سناب شات في شريط الحالة</string>
+	<key>STATUSBARICONNOTIFICATION_DESCRIPTION</key>
+	<string>عندما تتلقى سناب جديد ايقونة الشبح راح تظهر في شريط الحالة عشان تعلمك</string>
+	<key>STEALTH_MODE</key>
+	<string>اخفاء الاداة</string>
+	<key>STEALTH_MODE_DESC</key>
+	<string>فعلها لاخفاء جميع عناصر وخيارات الاداة من سناب شات.
+ملاحظة: اذا فعلتها تقدر توصل لخيارات الاداة من اعدادات السناب شات.</string>
+	<key>STORIESSAVESETTINGS</key>
+	<string>اعدادات الحفط التلقائي للستوري</string>
+	<key>STORIESSAVESETTINGS_DESCRIPTION</key>
+	<string>إدارة الستوري التي تم حفظها تلقائيا للبريد ومكان حفظها</string>
+	<key>STORIES_MEDIA_VAULT</key>
+	<string>الستوري</string>
+	<key>STORIES_MEDIA_VAULT_DESC</key>
+	<string>الوصول الى الستوري المحفوظة</string>
+	<key>SUPPORT_HEADER</key>
+	<string>دعم</string>
+	<key>SUPPORT_REMOVE_ADS_TITLE</key>
+	<string>مرحبا بكم في نسخة سناب شات بلس هذه نسخة معربة ومعدلة من آبو نذير هشام و irajae و يوسف الفاضل</string>
+	<key>SYNC_WITH_DROPBOX</key>
+	<string>مزامنة مع الدروب بوكس</string>
+	<key>TAP_TO_RECORD_VIDEOS</key>
+	<string>اضغط لتصوير الفيديو</string>
+	<key>TAP_TO_RECORD_VIDEOS_DESC</key>
+	<string>تعطيل الضغط مع الاستمرار لتصوير الفيديو, بس اضغط الزر شوي واتركة وبيكمل تصوير واضغط الزر اقين عشان يوقف تصوير</string>
+	<key>TEMPERATURE</key>
+	<string>درجة الحرارة</string>
+	<key>TRIGGERSNAPWITHVOLUMEUP</key>
+	<string>التقاط صور سنابات باستخدام Activator</string>
+	<key>TRIGGERSNAPWITHVOLUMEUP_DESCRIPTION</key>
+	<string>اختيار طريقة التنشيط الي تبي عشان تصور سناباتك باستخدام اداة Activator</string>
+	<key>TWEETED</key>
+	<string>تويت</string>
+	<key>TWEET_TO_REMOVE_ADS</key>
+	<string>مرحبا بكم في نسخة سناب شات بلس هذه نسخة معربة ومعدلة من ابو نذير وهشام</string>
+	<key>UA_PPTTWEAK_TWEET_PROMO_TEXT</key>
+	<string>مرحبا بكم في نسخة سناب شات بلس هذه نسخة معربة ومعدلة من آبو نذير هشام و irajae و يوسف الفاضل</string>
+	<key>WARNING</key>
+	<string>تحذير!</string>
+	<key>SC_MOHADU_MESSAGE_TITLE</key>
+	<string>مرحباً بكم</string>
+	<key>SC_MOHADU_MESSAGE</key>
+	<string>مرحبا بكم في نسخة سناب شات بلس هذه نسخة معربة ومعدلة من ابو نذير وهشام</string>
+</dict>
+</plist>
