@@ -1,6 +1,6 @@
 "MAIN_PREFERENCES_HEADER" = "Snapchat + réglages";
 "DISABLEHOLDTOVIEW" = "Désactiver restée appuyé pour voir";
-"DISABLEHOLDTOVIEW_DESCRIPTION" = "Plus besoin de restéerappuyé pour voir une image/video. Si activé, clicquer sur 'X' en bas a gauche de l'écran pour quitter l'image/video et la marqué comme lu ou utiliser le symbole de l'oeil.";
+"DISABLEHOLDTOVIEW_DESCRIPTION" = "Plus besoin de rester appuyé pour voir une image/video. Si activé, clicquer sur 'X' en bas a gauche de l'écran pour quitter l'image/video et la marqué comme lu ou utiliser le symbole de l'oeil.";
 "PROTECTAPPWITHPASSWORD" = "Activer mot de passe ou TouchID";
 "PROTECTAPPWITHPASSWORD_DESCRIPTION" = "Ajouter un mot de passe ou TouchID au lancement de Snapchat - 3 Tentatives avant le blocage (Nécessitant une remise à zéro)";
 "SAVETO" = "Enregistrer le média dans";
