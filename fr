@@ -1,6 +1,6 @@
 "MAIN_PREFERENCES_HEADER" = "Snapchat + réglages";
 "DISABLEHOLDTOVIEW" = "Désactiver restée appuyé pour voir";
-"DISABLEHOLDTOVIEW_DESCRIPTION" = "No longer have to hold the image/video to view. When enabled, click on 'X' at bottom left of screen to exit image/video w/o marking as read or the eye symbol to mark as read.";
+"DISABLEHOLDTOVIEW_DESCRIPTION" = "Plus besoin de restéerappuyé pour voir une image/video. Si activé, clicquer sur 'X' en bas a gauche de l'écran pour quitter l'image/video et la marqué comme lu ou utiliser le symbole de l'oeil.";
 "PROTECTAPPWITHPASSWORD" = "Activer mot de passe ou TouchID";
 "PROTECTAPPWITHPASSWORD_DESCRIPTION" = "Ajouter un mot de passe ou TouchID au lancement de Snapchat - 3 Tentatives avant le blocage (Nécessitant une remise à zéro)";
 "SAVETO" = "Enregistrer le média dans";
@@ -19,11 +19,11 @@
 "AUTOSAVEOUTGOING_DESCRIPTION" = "Sauvegarder automatiquement les snaps que vous envoyer";
 "DISABLECAMERASHUTTERSOUND" = "Désactiver le son lors d'un screenschot";
 "AUTOSAVE_NOTIFICATION" = "Sauvegarder automatiquement les notifications";
-"AUTOSAVE_NOTIFICATION_DESC" = "Afficher la bar de status lors de l'enregistrement des notifications";
+"AUTOSAVE_NOTIFICATION_DESC" = "Afficher la barre de statut lors de l'enregistrement des notifications";
 "DISABLECAMERASHUTTERSOUND_DESCRIPTION" = "Désactiver le son lors de la prise de photos";
 
 // Autosave Stories
-"STORIESSAVESETTINGS" = "Réglages des enregistrements automatique des stories";
+"STORIESSAVESETTINGS" = "Réglages des enregistrements automatiques des stories";
 "STORIESSAVESETTINGS_DESCRIPTION" = "Gérer quelles stories enregistrer et où les sauvegarder";
 "AUTOSAVE_STORIES" = "Enregistrement automatiques des stories";
 "AUTOSAVE_STORIES_DESC" = "Enregistrer les stories que vous chargez et vous regardez";
@@ -126,8 +126,8 @@
 "PAYMENT_THANK_YOU_TITLE" = "Merci!";
 "PAYMENT_CONFIRMATION" = "YVous avez supprimé les publicités pour Snap + à vie . Merci pour votre soutien!";
 "PAYMENT_OK" = "Okay!";
-"ADD_REMOVAL" = "Snap + supression de pubs";
-"AD_SETTINGS" = "Réglages de suppression de pub";
+"ADD_REMOVAL" = "Snap + supression de publicité";
+"AD_SETTINGS" = "Réglages de suppression de publicité";
 "UA_PPTTWEAK_TWEET_PROMO_TEXT" = "J'utilise Snap++ pour Snapchat crée par @Unlimapps et traduit par @Ryan, pour ajouter de nouvelles fonctionnalités à Snapchat!";
 
 "SCPP_ADS_MESSAGE_TITLE" = "Hey There!";
@@ -177,7 +177,7 @@
 "SHARE_CHAT_TEXT_DESC" = "Rester appuyé pour partager ou copier le texte";
 
 //Privacy Settings
-"PRIVACY_SETTINGS" = "Paramètre de confidentialité";
+"PRIVACY_SETTINGS" = "Paramètres de confidentialité";
 "PRIVACY_SETTINGS_DESCRIPTION" = "Gérer les paramètres de confidentialité, par exemple les notifications lors de l'écriture d'un message";
 "DISABLEISTYPING" = "Désactiver les notifications d'écritures'";
 "DISABLEISTYPING_DESCRIPTION" = "Les autres ne receveront pas que vous êtes entrain d'écrire";
