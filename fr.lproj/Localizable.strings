@@ -49,7 +49,7 @@
 "PASSWORDPROTECTSAVEDMEDIA" = "Protection par mot de passe";
 "PASSWORDPROTECTSAVEDMEDIA_DESCRIPTION" = "Saisir le mot de passe pour voir les snaps";
 
-"INCOMING_MEDIA" = "Médias reçus;
+"INCOMING_MEDIA" = "Médias reçus";
 "INCOMING_MEDIA_DESCRIPTION" = "Sauvegarder automatiquement les images/videos que vous recevez";
 
 "OUTGOING_MEDIA" = "Médias envoyés";
@@ -186,7 +186,7 @@
 "TYPING_WHITELIST" = "Liste Blanche";
 "TYPING_BLACKLIST" = "Liste Noire";
 "DISABLE_SCREENSHOT_NOTIFICATION" = "Désactiver les reçus de capture d'écran";
-"DISABLE_SCREENSHOT_NOTIFICATION_DESC" = "Snapchat ne détectera pas lorsque vous prenez une capture d'écran"";
+"DISABLE_SCREENSHOT_NOTIFICATION_DESC" = "Snapchat ne détectera pas lorsque vous prenez une capture d'écran";
 "SECURITY_SETTINGS" = "Réglages de sécurité";
 "SET_PASSCODE" = "Définir un code Snapchat";
 "SET_VAULT_PASSCODE" = "Définir un code pour la gallerie";
