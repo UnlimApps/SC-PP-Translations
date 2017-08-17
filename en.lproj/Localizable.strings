@@ -400,7 +400,7 @@
 	<string>Hidden Tweak</string>
 	<key>STEALTH_MODE_DESC</key>
 	<string>Enable to hide all tweak&#39;s UI elements.
-		Note: if enabled, you can access the tweak preferences from snapchap settings.</string>
+			Note: if enabled, you can access the tweak preferences from snapchap settings.</string>
 	<key>STORIESSAVESETTINGS</key>
 	<string>Stories Autosave Settings</string>
 	<key>STORIESSAVESETTINGS_DESCRIPTION</key>
@@ -435,6 +435,16 @@
 	<string>Disable hold gesture for recording videos, just after long press you can release and just tap again to stop recording.</string>
 	<key>TEMPERATURE</key>
 	<string>Temperature</string>
+	<key>THIRD_PARTY_MESSAGE</key>
+	<string>Third Party Apps Notice!\n\nPlease note that using 3rd party tweaks and apps is against Snapchat TOS and it could get your account locked / banned. This tweak does not implement any kind of DRM checks nor is it possible to know every method that Snapchat could use to detect its presence. Use at your own risk.</string>
+	<key>THIRD_PARTY_MESSAGE_ALERT</key>
+	<string>Please note that using 3rd party tweaks and apps is against Snapchat TOS and it could get your account locked / banned. This tweak does not implement any kind of DRM checks nor is it possible to know every method that Snapchat could use to detect its presence. Use at your own risk.</string>
+	<key>THIRD_PARTY_MESSAGE_ALERT_AGREE</key>
+	<string>I Understand</string>
+	<key>THIRD_PARTY_MESSAGE_ALERT_DONT_AGREE</key>
+	<string>I Don&#39;t Agree</string>
+	<key>THIRD_PARTY_MESSAGE_ALERT_TITLE</key>
+	<string>Third Party Apps Notice!</string>
 	<key>TRIGGERSNAPWITHVOLUMEUP</key>
 	<string>Take photo with Activator</string>
 	<key>TRIGGERSNAPWITHVOLUMEUP_DESCRIPTION</key>
