@@ -2,36 +2,14 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-<key>MORE_SETTINGS</key>
-<string>الاتصال/المزيد</string>
-<key>AD_SETTINGS</key>
-<string>إعدادات إزالة الإعلانات</string>
-	<key>STORIES_SETTINGS</key>
-	<string>إعدادات الستوري</string>
-	<key>STORIES_SETTINGS_DESCRIPTION</key>
-	<string>إدارة كيفية عمل ستوري عن سناب شات</string>
-	<key>USAGE_SETTINGS</key>
-	<string>إعدادات الاستخدام</string>
-	<key>USAGE_SETTINGS_DESCRIPTION</key>
-	<string>إدارة كيفية استخدام سناب شات والأدوات الإضافية +</string>
-	<key>APPEARANCE_SETTINGS</key>
-	<string>إعدادات المظهر</string>
-	<key>APPEARANCE_SETTINGS_DESCRIPTION</key>
-	<string>إدارة المظهر سناب شات والأدوات الإضافية +</string>
-	<key>SNAPS_SETTINGS</key>
-	<string>إعدادات سناب بلس من ابو نذير</string>
-	<key>SNAPS_SETTINGS_DESCRIPTION</key>
-	<string>إعدادات للعرض والتفاعل مع السناب بلس</string>
-	<key>PRIVACY_SETTINGS</key>
-	<string>اعدادات الخصوصيه</string>
-	<key>PRIVACY_SETTINGS_DESCRIPTION</key>
-	<string>إدارة أي إعدادات الخصوصية </string>
 	<key>ADDED</key>
 	<string>مضاف</string>
 	<key>ADDITIONAL_SETTINGS</key>
 	<string>اعدادات السناب شات بلس</string>
 	<key>ADD_REMOVAL</key>
 	<string>Snap + Ad Removal</string>
+	<key>AD_SETTINGS</key>
+	<string>إعدادات إزالة الإعلانات</string>
 	<key>ALBUM_NAME</key>
 	<string>اسم الالبوم</string>
 	<key>ALWAYSKEEPSNAPS</key>
@@ -42,6 +20,10 @@
 	<string>اظهار دائمن sublabels</string>
 	<key>ALWAYSSHOWFEEDSUBLABELS_DESCRIPTION</key>
 	<string>عمود معلومات اضافية</string>
+	<key>APPEARANCE_SETTINGS</key>
+	<string>إعدادات المظهر</string>
+	<key>APPEARANCE_SETTINGS_DESCRIPTION</key>
+	<string>إدارة المظهر سناب شات والأدوات الإضافية +</string>
 	<key>APP_RESTART_REQUIRED</key>
 	<string>تفعيل هذا الخيار يتطلب اعادة تشغيل التطبيق</string>
 	<key>AUTOLOAD</key>
@@ -214,6 +196,8 @@
 	<string>حط الدقائق</string>
 	<key>MISSING_INFORMATION</key>
 	<string>معلومات مفقودة</string>
+	<key>MORE_SETTINGS</key>
+	<string>الاتصال/المزيد</string>
 	<key>NO_PASSCODE</key>
 	<string>No Passcode</string>
 	<key>NO_THANKS_ALERT</key>
@@ -244,6 +228,10 @@
 	<string>شارك</string>
 	<key>PRINTED</key>
 	<string>مطبوعة</string>
+	<key>PRIVACY_SETTINGS</key>
+	<string>اعدادات الخصوصيه</string>
+	<key>PRIVACY_SETTINGS_DESCRIPTION</key>
+	<string>إدارة أي إعدادات الخصوصية </string>
 	<key>PROTECTAPPWITHPASSWORD</key>
 	<string>تفعيل كلمة المرور او البصمة</string>
 	<key>PROTECTAPPWITHPASSWORD_DESCRIPTION</key>
@@ -274,6 +262,10 @@
 	<string>اعدادات عشان وش السنابات الي تبي تحفظ ووين تبي تحفظهم</string>
 	<key>SAVING</key>
 	<string>حفظ</string>
+	<key>SC_MOHADU_MESSAGE</key>
+	<string>مرحبا بكم في نسخة سناب شات بلس هذه نسخة معربة ومعدلة من ابو نذير وهشام</string>
+	<key>SC_MOHADU_MESSAGE_TITLE</key>
+	<string>مرحباً بكم</string>
 	<key>SECURITY_SETTINGS</key>
 	<string>اعدادات الامان</string>
 	<key>SENT</key>
@@ -294,6 +286,10 @@
 	<string>مشاهدة ثواني التصوير</string>
 	<key>SHOW_RECORDING_SECONDS_DESC</key>
 	<string>اظهار عداد الثواني وانت جالس تصور فيديو بوسط زر التسجيل الاحمر تطلع.</string>
+	<key>SNAPS_SETTINGS</key>
+	<string>إعدادات سناب بلس من ابو نذير</string>
+	<key>SNAPS_SETTINGS_DESCRIPTION</key>
+	<string>إعدادات للعرض والتفاعل مع السناب بلس</string>
 	<key>SPEED</key>
 	<string>حط الكيلو متر الي تبي</string>
 	<key>SPEED_SPOOF</key>
@@ -332,7 +328,7 @@
 	<string>اخفاء الاداة</string>
 	<key>STEALTH_MODE_DESC</key>
 	<string>فعلها لاخفاء جميع عناصر وخيارات الاداة من سناب شات.
-ملاحظة: اذا فعلتها تقدر توصل لخيارات الاداة من اعدادات السناب شات.</string>
+	ملاحظة: اذا فعلتها تقدر توصل لخيارات الاداة من اعدادات السناب شات.</string>
 	<key>STORIESSAVESETTINGS</key>
 	<string>اعدادات الحفط التلقائي للستوري</string>
 	<key>STORIESSAVESETTINGS_DESCRIPTION</key>
@@ -341,6 +337,10 @@
 	<string>الستوري</string>
 	<key>STORIES_MEDIA_VAULT_DESC</key>
 	<string>الوصول الى الستوري المحفوظة</string>
+	<key>STORIES_SETTINGS</key>
+	<string>إعدادات الستوري</string>
+	<key>STORIES_SETTINGS_DESCRIPTION</key>
+	<string>إدارة كيفية عمل ستوري عن سناب شات</string>
 	<key>SUPPORT_HEADER</key>
 	<string>دعم</string>
 	<key>SUPPORT_REMOVE_ADS_TITLE</key>
@@ -363,11 +363,11 @@
 	<string>مرحبا بكم في نسخة سناب شات بلس هذه نسخة معربة ومعدلة من ابو نذير وهشام</string>
 	<key>UA_PPTTWEAK_TWEET_PROMO_TEXT</key>
 	<string>مرحبا بكم في نسخة سناب شات بلس هذه نسخة معربة ومعدلة من آبو نذير هشام و irajae و يوسف الفاضل</string>
+	<key>USAGE_SETTINGS</key>
+	<string>إعدادات الاستخدام</string>
+	<key>USAGE_SETTINGS_DESCRIPTION</key>
+	<string>إدارة كيفية استخدام سناب شات والأدوات الإضافية +</string>
 	<key>WARNING</key>
 	<string>تحذير!</string>
-	<key>SC_MOHADU_MESSAGE_TITLE</key>
-	<string>مرحباً بكم</string>
-	<key>SC_MOHADU_MESSAGE</key>
-	<string>مرحبا بكم في نسخة سناب شات بلس هذه نسخة معربة ومعدلة من ابو نذير وهشام</string>
 </dict>
 </plist>
