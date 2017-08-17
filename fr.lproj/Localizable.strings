@@ -56,7 +56,7 @@
 "OUTGOING_MEDIA_DESCRIPTION" = "Sauvegarder automatiquement les images/videos que vous envoyez";
 
 "AUTOLOAD" = "Gérer les téléchargement automatique";
-"AUTOLOADSNAPS" = "Désactiver le chargement automatique des snaps"; Activer le bouton pour télécharger manuellement les snaps";
+"AUTOLOADSNAPS" = "Désactiver le chargement automatique des snaps. Activer le bouton pour télécharger manuellement les snaps";
 "AUTOLOADSTORIES" = "Disable Autoload of Stories";
 "AUTOLOADSTORIES_DESCRIPTION" = "Activé par defaut dans Snapchat. Activer le bouton pour télécharger manuellement les stories";
 "AUTOLOADDISCOVER" = "Disable Autoload of Discover";
@@ -142,7 +142,7 @@
 "ENABLELOCKEDFACES" = "Activer les visages verrouillés";
 
 "ENABLECUSTOMFILTERS" = "Activer les filtres personnalisés";
-"ENABLECUSTOMFILTERS_DESCRIPTION" = ""Afficher les filtres personnalisés à partir de Snap +";
+"ENABLECUSTOMFILTERS_DESCRIPTION" = "Afficher les filtres personnalisés à partir de Snap +";
 
 "FILTERFACESSETTINGS" = "Réglages des filtres et visages";
 "FILTERFACESSETTINGS_DESCRIPTION" = "Modifier les paramètres des filtres et des visages personnalisés";
@@ -239,7 +239,6 @@
 "ENABLE_MUTED_USERS" = "Activer le mutage d'utilisateur";
 "MUTED_USERS" = "Utilisateus mutés";
 "MUTED_USERS_DESCRIPTION" = "Sélectionnez vos amis dont lesquels vous ne voulez plus voir les stories.";
-
 
 "DISABLE_EVENT_LOGGING" = "Désactiver l'enregistrement des événements";
 "DISABLE_EVENT_LOGGING_DESC" = "Désactiver l'enregistrement par Snapchat!";
