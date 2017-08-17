@@ -99,15 +99,15 @@
 	<key>DISABLEHOLDTOVIEW</key>
 	<string>Disable Hold To View</string>
 	<key>DISABLEHOLDTOVIEW_DESCRIPTION</key>
-	<string>No longer have to hold the image/video to view. When enabled, click on &apos;X&apos; at bottom left of screen to exit image/video w/o marking as read or the eye symbol to mark as read.</string>
+	<string>No longer have to hold the image/video to view. When enabled, click on &#39;X&#39; at bottom left of screen to exit image/video w/o marking as read or the eye symbol to mark as read.</string>
 	<key>DISABLEISTYPING</key>
 	<string>Disable typing notifications</string>
 	<key>DISABLEISTYPING_BLACKLIST_DESCRIPTION</key>
-	<string>Everyone except blacklisted contacts will receive &apos;Is Typing&apos; receipts</string>
+	<string>Everyone except blacklisted contacts will receive &#39;Is Typing&#39; receipts</string>
 	<key>DISABLEISTYPING_DESCRIPTION</key>
-	<string>Others won&apos;t receive the &apos;Is Typing&apos; receipt</string>
+	<string>Others won&#39;t receive the &#39;Is Typing&#39; receipt</string>
 	<key>DISABLEISTYPING_WHITELIST_DESCRIPTION</key>
-	<string>Only whitelisted contacts will receive &apos;Is Typing&apos; receipts</string>
+	<string>Only whitelisted contacts will receive &#39;Is Typing&#39; receipts</string>
 	<key>DISABLE_EVENT_LOGGING</key>
 	<string>Disable Event Logging</string>
 	<key>DISABLE_EVENT_LOGGING_DESC</key>
@@ -133,13 +133,33 @@
 	<key>DISABLE_STORIES_REDESIGN_DESC</key>
 	<string>Disable the new story redesign and use the old design instead</string>
 	<key>DONTSENDSTORYREADREQUEST</key>
-	<string>Don&apos;t send story read request</string>
+	<string>Don&#39;t send story read request</string>
 	<key>DONTSENDSTORYREADREQUEST_DESCRIPTION</key>
-	<string>Your friend won&apos;t see that you have viewed their story</string>
+	<string>Your friend won&#39;t see that you have viewed their story</string>
 	<key>DROPBOXSYNCSETTINGS</key>
 	<string>DropBox Linking Settings</string>
 	<key>DROPBOXSYNCSETTINGS_DESCRIPTION</key>
 	<string>Settings for DropBox linked accounts</string>
+	<key>DROPBOX_APP_LINKED</key>
+	<string>App is linked with Dropbox</string>
+	<key>DROPBOX_CURRENT_PRIMARY_DEVICE</key>
+	<string>Current Primary Device: %@</string>
+	<key>DROPBOX_DEVICE_IS_NOT_PRIMARY</key>
+	<string>This device is not Primary</string>
+	<key>DROPBOX_DEVICE_NOT_PRIMARY_MESSAGE</key>
+	<string>Device is not Primary, no files will be uploaded, only new files will download.</string>
+	<key>DROPBOX_DEVICE_NO_PRIMARY</key>
+	<string>No Primary Device</string>
+	<key>DROPBOX_DEVICE_PRIMARY</key>
+	<string>This device is Primary</string>
+	<key>DROPBOX_FOOTER</key>
+	<string>Sync your document directory with dropbox</string>
+	<key>DROPBOX_REMOVE_DEVICE_PRIMARY</key>
+	<string>Remove Device as Primary</string>
+	<key>DROPBOX_SET_DEVICE_PRIMARY</key>
+	<string>Set Device as Primary</string>
+	<key>DROPBOX_SYNC_LOCALLY</key>
+	<string>Sync files locally</string>
 	<key>ENABLECUSTOMFACES</key>
 	<string>Enable Custom Faces</string>
 	<key>ENABLECUSTOMFACES_DESCRIPTION</key>
@@ -204,6 +224,8 @@
 	<string>Autosaved images/videos that you received</string>
 	<key>LEFT_LAUNCH_VIEW</key>
 	<string>Chats</string>
+	<key>LINK_DROPBOX</key>
+	<string>Link Dropbox</string>
 	<key>LOCATION</key>
 	<string>Location</string>
 	<key>LOGOUT_FROM_UAPP</key>
@@ -212,12 +234,12 @@
 	<string>Snapchat + settings</string>
 	<key>MANAGE</key>
 	<string>Manage</string>
-	<key>MANAGE_AVAILABLE_FILTERS</key>
-	<string>Manage Available Filters</string>
 	<key>MANAGESETTINGS</key>
 	<string>Visibility and Spoofings Settings</string>
 	<key>MANAGESETTINGS_DESCRIPTION</key>
 	<string>Settings to control Snapchat privacy settings and ability to spoof some Snapchat items.</string>
+	<key>MANAGE_AVAILABLE_FILTERS</key>
+	<string>Manage Available Filters</string>
 	<key>MEDIA_VAULT</key>
 	<string>Media Vault</string>
 	<key>MEDIA_VAULT_DESCRIPTION</key>
@@ -301,11 +323,11 @@
 	<key>SAVING</key>
 	<string>Saving</string>
 	<key>SCPP_ADS_MESSAGE</key>
-	<string>To support our development of Snap + as a free product, we&apos;ve set it up to display ads at the top of your Snapchat app while you view a snap. If you want to remove the ads you can tweet from the app for a 2 week removal or donate $2 for a lifetime license. Thanks for your support!</string>
+	<string>To support our development of Snap + as a free product, we&#39;ve set it up to display ads at the top of your Snapchat app while you view a snap. If you want to remove the ads you can tweet from the app for a 2 week removal or donate $2 for a lifetime license. Thanks for your support!</string>
 	<key>SCPP_ADS_MESSAGE_TITLE</key>
 	<string>Hey There!</string>
 	<key>SC_ADS_MESSAGE</key>
-	<string>To support our development of SC + as a free product, we&apos;ve set it up to display ads near the top of your Snapchat app. If you want to remove the ads you can tweet from the app for a 2 week removal or donate $2 for a lifetime license. Thanks for your support!</string>
+	<string>To support our development of SC + as a free product, we&#39;ve set it up to display ads near the top of your Snapchat app. If you want to remove the ads you can tweet from the app for a 2 week removal or donate $2 for a lifetime license. Thanks for your support!</string>
 	<key>SC_ADS_MESSAGE_TITLE</key>
 	<string>Hey There!</string>
 	<key>SC_MOHADU_MESSAGE</key>
@@ -377,8 +399,8 @@
 	<key>STEALTH_MODE</key>
 	<string>Hidden Tweak</string>
 	<key>STEALTH_MODE_DESC</key>
-	<string>Enable to hide all tweak&apos;s UI elements.
-	Note: if enabled, you can access the tweak preferences from snapchap settings.</string>
+	<string>Enable to hide all tweak&#39;s UI elements.
+		Note: if enabled, you can access the tweak preferences from snapchap settings.</string>
 	<key>STORIESSAVESETTINGS</key>
 	<string>Stories Autosave Settings</string>
 	<key>STORIESSAVESETTINGS_DESCRIPTION</key>
@@ -395,6 +417,10 @@
 	<string>Support</string>
 	<key>SUPPORT_REMOVE_ADS_TITLE</key>
 	<string>Support us and remove ads for $2.00</string>
+	<key>SYNC</key>
+	<string>Sync</string>
+	<key>SYNC_FOOTER</key>
+	<string>Sync your document directory</string>
 	<key>SYNC_INCOMING_MEDIA_DESCRIPTION</key>
 	<string>Enable syncing of saved incoming media with Dropbox</string>
 	<key>SYNC_OUTGOING_MEDIA_DESCRIPTION</key>
@@ -422,37 +448,11 @@
 	<key>TYPING_WHITELIST</key>
 	<string>Whitelist</string>
 	<key>UA_PPTTWEAK_TWEET_PROMO_TEXT</key>
-	<string>I&apos;m using Snap + for Snapchat by @AbcAppsLLC to add new features to Snapchat!</string>
-	<key>USAGE_SETTINGS</key>
-	<string>Usage Settings</string>
+	<string>I&#39;m using Snap + for Snapchat by @AbcAppsLLC to add new features to Snapchat!</string>
 	<key>UNLINK_DROPBOX</key>
 	<string>Unlink Dropbox</string>
-	<key>LINK_DROPBOX</key>
-	<string>Link Dropbox</string>
-	<key>DROPBOX_FOOTER</key>
-	<string>Sync your document directory with dropbox</string>
-	<key>DROPBOX_APP_LINKED</key>
-	<string>App is linked with Dropbox</string>
-	<key>DROPBOX_DEVICE_NOT_PRIMARY_MESSAGE</key>
-	<string>Device is not Primary, no files will be uploaded, only new files will download.</string>
-	<key>DROPBOX_SYNC_LOCALLY</key>
-	<string>Sync files locally</string>
-	<key>DROPBOX_DEVICE_PRIMARY</key>
-	<string>This device is Primary</string>
-	<key>DROPBOX_SET_DEVICE_PRIMARY</key>
-	<string>Set Device as Primary</string>
-	<key>DROPBOX_REMOVE_DEVICE_PRIMARY</key>
-	<string>Remove Device as Primary</string>
-	<key>DROPBOX_DEVICE_IS_NOT_PRIMARY</key>
-	<string>This device is not Primary</string>
-	<key>DROPBOX_DEVICE_NO_PRIMARY</key>
-	<string>No Primary Device</string>
-	<key>DROPBOX_CURRENT_PRIMARY_DEVICE</key>
-	<string>Current Primary Device: %@</string>
-	<key>SYNC</key>
-	<string>Sync</string>
-	<key>SYNC_FOOTER</key>
-	<string>Sync your document directory</string>
+	<key>USAGE_SETTINGS</key>
+	<string>Usage Settings</string>
 	<key>USAGE_SETTINGS_DESCRIPTION</key>
 	<string>Manage how you use Snapchat and Snap +</string>
 	<key>WARNING</key>
