@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ENTER_VAULT_PASSWORD</key>
+	<string>Inserisci password galleria</string>
+	<key>ENABLELOCKEDFACES</key>
+	<string>Abilita blocco facce</string>
+	<key>SNAPS_SETTINGS_DESCRIPTION</key>
+	<string>Impostazioni per vedere e interagire con gli snap</string>
+	<key>PRIVACY_SETTINGS</key>
+	<string>Impostazioni Privacy</string>
+	<key>OUTGOING_MEDIA_DESCRIPTION</key>
+	<string>Salva automaticamente foto/video che mandi</string>
+	<key>UA_PPTTWEAK_TWEET_PROMO_TEXT</key>
+	<string>Sto usando Snap + per Snapchat di @AbcAppsLLC per aggiungere nuove funzioni a Snapchat!</string>
+	<key>NO_THANKS_ALERT</key>
+	<string>No Grazie</string>
+	<key>AUTOSAVEINCOMING_DESCRIPTION</key>
+	<string>Salva automaticamente snap che ricevi</string>
+	<key>COPIED</key>
+	<string>Copiato</string>
+	<key>AUTOSAVEOUTGOING_DESCRIPTION</key>
+	<string>Salva automaticamente snap che invii</string>
+	<key>MANAGESETTINGS_DESCRIPTION</key>
+	<string>Impostazioni per controllare la privacy di Snapchat e l'abilità di nascondere alcuni elementi di Snapchat.</string>
+	<key>GP_SAVE_TO_CAMERA_ROLL</key>
+	<string>Salva sul rullino fotografico</string>
+	<key>MISSING_INFORMATION</key>
+	<string>Informazione mancante</string>
+	<key>DISABLE_STORIES_REDESIGN_DESC</key>
+	<string>Disabilita il nuovo design delle stories e usa invece quello vecchio</string>
+	<key>TRIGGERSNAPWITHVOLUMEUP_DESCRIPTION</key>
+	<string>Seleziona la tua azione personale per fare uno snap con activator (richiede Activator)</string>
+	<key>ENABLEDEFAULTFACES</key>
+	<string>Abilita facce rimosse</string>
+	<key>STORIES_SETTINGS</key>
+	<string>Impostazioni stories</string>
+	<key>DISABLEHOLDTOVIEW_DESCRIPTION</key>
+	<string>Non serve più tenere premuto su un'immagine/un video per vederlo. Quando è abilitato, clicca sulla &apos;X&apos; in basso a sinstra dello schermo per uscire dell'immagine/video senza segnarlo come letto o sull'occhio per segnarlo come letto.</string>
+	<key>SET_VAULT_PASSCODE</key>
+	<string>Imposta codice galleria</string>
+	<key>TAP_TO_RECORD_VIDEOS</key>
+	<string>Premi per registrare un video</string>
+	<key>GP_SAVE_TO_VAULT</key>
+	<string>Salva sull'archivio SC+</string>
+	<key>ALWAYSSHOWFEEDSUBLABELS_DESCRIPTION</key>
+	<string>Casella di testo informazioni aggiuntiva</string>
+	<key>AUTOLOADSTORIES_DESCRIPTION</key>
+	<string>Attivo di default in Snapchat. Attivare per scaricare manualmente le stories</string>
+	<key>TYPING_WHITELIST</key>
+	<string>Whitelist</string>
+	<key>DELETE_VAULT_PASSCODE</key>
+	<string>Elimina codice galleria</string>
+	<key>NO_PASSCODE</key>
+	<string>Nessun codice Snapchat</string>
+	<key>APPEARANCE_SETTINGS</key>
+	<string>Impostazioni aspetto</string>
+	<key>ALWAYSSHOWFEEDSUBLABELS</key>
+	<string>Mostra sempre sottoetichette</string>
+	<key>DISABLEHOLDTOVIEW</key>
+	<string>Disabilita premi per vedere</string>
+	<key>OUTGOING_MEDIA</key>
+	<string>Media in uscita</string>
+	<key>STORIES_MEDIA_VAULT_DESC</key>
+	<string>Accesso ai media salvati</string>
+	<key>AUTOSAVE_STORIES_NOTIFICATION_DESC</key>
+	<string>Mostra una notifica nella status bar quando una storia viene autosalvata</string>
+	<key>CHAT_BLOCK_BUTTON</key>
+	<string>Pulsante blocca chat</string>
+	<key>SHOW_RECORDING_SECONDS</key>
+	<string>Mostra secondi di registrazione</string>
+	<key>TRIGGERSNAPWITHVOLUMEUP</key>
+	<string>Fai una foto con Activator</string>
+	<key>SPOOF_SPEED_METERS_DESC</key>
+	<string>Abilita e falsifica la velocità in Miglia</string>
+	<key>DISABLE_STORIES_AUTOSWITCH_DESC</key>
+	<string>Mentre si guardano le stories, non si passerà automaticamente alla foto/al video successivo finchè non si clicchera su di esso</string>
+	<key>SPOOF_FORCE_AMPM_FORMAT</key>
+	<string>Forza formato AM/PM</string>
+	<key>CLEARBADGESONEXIT_DESCRIPTION</key>
+	<string>Rimuovi tutti i badge dallicona di snapchat quando si esce dall'app</string>
+	<key>GP_SAVE_TO_ALBUM</key>
+	<string>Salva sull'album del telefono</string>
+	<key>SHARED</key>
+	<string>Condivisi</string>
+	<key>ALWAYSKEEPSNAPS</key>
+	<string>Visualizzazioni Snaps illimitate</string>
+	<key>FILL_OUT_ALL_INFO</key>
+	<string>Essere sicuri di aver inserito tutte le informazioni!</string>
+	<key>SPOOF_SPEED_KILOMETERS</key>
+	<string>Falsifica Kilometri all'ora</string>
+	<key>SPOOF_SPEED_METERS</key>
+	<string>Falsifica Miglia all'ora</string>
+	<key>PROTECTAPPWITHPASSWORD_DESCRIPTION</key>
+	<string>Aggiungi Password o TouchID all'avvio di Snapchat - 3 Tentativi prima del blocco (Richiede Hard-Reset)</string>
+	<key>DISABLE_STORIES_REDESIGN</key>
+	<string>Disabilita ReDesign delle Stories </string>
+	<key>TWEETED</key>
+	<string>Twittato</string>
+	<key>SAVEDMEDIASETTINGS_DESCRIPTION</key>
+	<string>Archivio degli snaps salvati (in entrata/uscita) Impostazioni di Sicurezza dell'Archivio</string>
+	<key>LOGOUT_FROM_UAPP</key>
+	<string>Esci da Snap +</string>
+	<key>SCPP_ADS_MESSAGE</key>
+	<string>Per supportare lo sviluppo di Snap + come gratuit, abbaimo inserito delle pubblicità all'interno dell'applicazione. Se si vogliono rimuovere si può twittare dall'app per avere 2 settimane senza pubblicità o donare 2$ per una licenza a vita. Grazie per il tuo supporto!</string>
+	<key>DISABLE_NEW_TAB_BAR</key>
+	<string>Disabilita barra nuova pagina</string>
+	<key>SAVETEXTMESSAGES</key>
+	<string>Salva messaggi chat</string>
+	<key>SPOOF_MINUTE</key>
+	<string>Falsifica minuti</string>
+	<key>SET_PASSCODE</key>
+	<string>Imposta codice sblocco per Snapcaht</string>
+	<key>DISABLE_SCREENSHOT_NOTIFICATION_DESC</key>
+	<string>Snapchat non rileverà gli screenshot effettuati</string>
+	<key>SYNC_INCOMING_MEDIA_DESCRIPTION</key>
+	<string>Abilita sincronizzazione dei media in entrata con Dropbox</string>
+	<key>ALWAYSKEEPGROUPSNAPS_DESCRIPTION</key>
+	<string>I gruppi di snap non vengono rimossi dopo la prima visualizzazione. Abilita per vedere quante volte si vuole gli snaps.</string>
+	<key>SAVING</key>
+	<string>Salvataggio</string>
+	<key>SC_MOHADU_MESSAGE</key>
+	<string>Questa versione è aggiornata e modificata da @mohadu313 e @Hisham_vip!</string>
+	<key>SAVETOSETTING</key>
+	<string>Impostazioni per salvataggio Snaps</string>
+	<key>RECORDING_LENGTH</key>
+	<string>Incrementa lunghezza video</string>
+	<key>ALBUM_NAME</key>
+	<string>Nome Album</string>
+	<key>AUTOLOADSETTINGS_DESCRIPTION</key>
+	<string>Abilita o disabilita autocarimaneto delle impostazioni di Snapchat per limitare l'utilizzo della banda della connessione dati</string>
+	<key>PAYMENT_THANK_YOU_TITLE</key>
+	<string>Grazie!</string>
+	<key>FILTERFACESSETTINGS_DESCRIPTION</key>
+	<string>Cambia imposazioni per filtri e facce personalizzati</string>
+	<key>AUTOLOAD</key>
+	<string>Impostazioni Autodownload</string>
+	<key>SYNC_WITH_DROPBOX_OUTGOING</key>
+	<string>Sincronizza dati in uscita con Dropbox</string>
+	<key>APP_RESTART_REQUIRED</key>
+	<string>Abilitare questa imposazione richiede un riavvio dell'app!</string>
+	<key>SAVEDMEDIASETTINGS</key>
+	<string>Archivio Media Snapchat +</string>
+	<key>WARNING</key>
+	<string>Attenzione!</string>
+	<key>STATUSBARICONNOTIFICATION_DESCRIPTION</key>
+	<string>Quando si riceve uno snap, una icona di un fanstasma appare nella status bar per segnalarlo</string>
+	<key>DEFAULT_LAUNCH_VIEW</key>
+	<string>Default</string>
+	<key>HIDE_DISCOVER_STORIES</key>
+	<string>Nascondi le stories di Discovery</string>
+	<key>DISABLE_EVENT_LOGGING</key>
+	<string>Disabilita Evento Logging</string>
+	<key>ENABLE_IMAGE_EDITING</key>
+	<string>Modifica Immagine</string>
+	<key>MEDIA_VAULT_DESCRIPTION</key>
+	<string>Accesso media salvati in entrata/uscita</string>
+	<key>PAYMENT_CONFIRMATION</key>
+	<string>Le pubblicità sono state rimosse da Snap + per sempre. Grazie per il tuo supporto, significa davvero molto!</string>
+	<key>SHARE_CHAT_TEXT</key>
+	<string>Condividi/Copia testo chat</string>
+	<key>CANCEL</key>
+	<string>Annulla</string>
+	<key>DEFAULT_VIEW_ONLAUNCH_DESC</key>
+	<string>Scegli quale pagina aprire quando si avvia Snapchat</string>
+	<key>PRIVACY_SETTINGS_DESCRIPTION</key>
+	<string>Impostazioni Privacy es. sta scrivendo</string>
+	<key>SNAPS_SETTINGS</key>
+	<string>Impostazioni Snaps</string>
+	<key>STORIES_SETTINGS_DESCRIPTION</key>
+	<string>Imposta come lavorano le stories su Snapchat</string>
+	<key>POSTED</key>
+	<string>Postato</string>
+	<key>ONECLICKSAVE_DESCRIPTION</key>
+	<string>Salvataggio in un click nella desitnazione desiderata</string>
+	<key>PAYMENT_OK</key>
+	<string>Okay!</string>
+	<key>SENT</key>
+	<string>Inviato</string>
+	<key>DISABLE_NEW_TAB_BAR_DESC</key>
+	<string>Disabilita design della barra della nuova pagina</string>
+	<key>TWEET_TO_REMOVE_ADS</key>
+	<string>Twittare rimuoverà le pubblicità da TWTR++ per 1.5 settimane. Puoi twittare GRATUITAMENTE ogni settimana. Il tuo supporto è incredibile!</string>
+	<key>ENABLECUSTOMFACES_DESCRIPTION</key>
+	<string>Mostra facce personalizzate da Snap +</string>
+	<key>RIGHT_LAUNCH_VIEW</key>
+	<string>Stories</string>
+	<key>TAP_TO_RECORD_VIDEOS_DESC</key>
+	<string>Disabilita tenere premuto per egistrare video, dopo una lunga pressionepuoi rilasciare e toccare di nuovo per stoppare la registrazione.</string>
+	<key>HEY_THERE_ALERT</key>
+	<string>Ciao a tutti!</string>
+	<key>MEDIA_VAULT</key>
+	<string>Archivio Media</string>
+	<key>DISABLEISTYPING_BLACKLIST_DESCRIPTION</key>
+	<string>Everyone except blacklisted contacts will receive &apos;Is Typing&apos; receipts</string>
+	<key>STATUSBARICONNOTIFICATION</key>
+	<string>Mostra l'icona di snapchat nella statusbar</string>
+	<key>AUTOLOADSTORIES</key>
+	<string>Dsiabilita autocaricamento stories</string>
+	<key>CLOSE_APP</key>
+	<string>Chiudi l'App</string>
+	<key>SELECTED_USERS</key>
+	<string>Seleziona Amici</string>
+	<key>SYNC_OUTGOING_MEDIA_DESCRIPTION</key>
+	<string>Abilita sicnronizzazione media in uscita con Dropbox</string>
+	<key>SPOOF_HOUR</key>
+	<string>Falsifica Ora</string>
+	<key>SUPPORT_HEADER</key>
+	<string>Supporto</string>
+	<key>DISABLE_SCREENSHOT_NOTIFICATION</key>
+	<string>Disabilita ricevuta screenshot</string>
+	<key>MUTED_USERS_DESCRIPTION</key>
+	<string>Seleziona amici di cui vuoi disattivare le stories.</string>
+	<key>SPOOFTEMPERATUREF_DESCRIPTION</key>
+	<string>Sovreascrivi e imposta temperatura in °F</string>
+	<key>SC_MOHADU_MESSAGE_TITLE</key>
+	<string>Ciao a tutti!</string>
+	<key>SHARE_CHAT_TEXT_DESC</key>
+	<string>Lunga pressione su un messaggio in una chat per condividere o copiare il testo</string>
+	<key>SAVETOSETTING_DESCRIPTION</key>
+	<string>Le impostazioni per determinare dove e quali snaps salvare</string>
+	<key>MINUTE</key>
+	<string>Imposta Minuto</string>
+	<key>LEFT_LAUNCH_VIEW</key>
+	<string>Chats</string>
+	<key>AUTOLOADDISCOVER_DESCRIPTION</key>
+	<string>Abilitato di default in Snapcat. Attivare questo per scaricare manualmente le cose di Discover</string>
+	<key>SPOOF_TIME_DESC</key>
+	<string>Controlla i filtri falsi del tempo su Snapchat</string>
+	<key>NO_VAULT_PASSCODE</key>
+	<string>Nessun codice per la galleria</string>
+	<key>STEALTH_MODE</key>
+	<string>Tweak Nascosto</string>
+	<key>ENABLE_IMAGE_EDITING_DESC</key>
+	<string>Sotituisce l'editor immagine con uno migliore.</string>
+	<key>DISABLE_EVENT_LOGGING_DESC</key>
+	<string>Login disabilitato da Snapchat!</string>
+	<key>DONTSENDSTORYREADREQUEST_DESCRIPTION</key>
+	<string>I tuoi maici non vedranno che hai visto le loro stories</string>
+	<key>ENABLEDEFAULTFACES_DESCRIPTION</key>
+	<string>Mostra le facce che Snapchat ha rimosso.</string>
+	<key>AUTOSAVE_STORIES</key>
+	<string>Autosalvataggio Stories</string>
+	<key>SPOOF_SPEED_KILOMETERS_DESC</key>
+	<string>Abilita e falsifica la velocità in Kilometri</string>
+	<key>FILTERFACESSETTINGS</key>
+	<string>Imposazioni filtri e facce</string>
+	<key>USAGE_SETTINGS</key>
+	<string>Impostazioni spazio usato</string>
+	<key>DISABLE_STORIES_AUTOADVANCE</key>
+	<string>Disabilita avanzamento automatico stories</string>
+	<key>SHARE</key>
+	<string>Condividi</string>
+	<key>SC_ADS_MESSAGE</key>
+	<string>Per supportare lo sviluppo di SC + come un prodotto gratuito, abbaimo inserito delle pubblicità all'interno dell'app. se vuoi rimuoverle puoi twittare dall'app per una rimozione di 2 settimane o donare 2$ per una licenza a vita. Grazie per il tuo supporto!</string>
+	<key>OK</key>
+	<string>Ok</string>
+	<key>AUTOLOADSNAPS_DESCRIPTION</key>
+	<string>Attivo di default in Snapcat. Attivare per scaricare manualmente gli snaps</string>
+	<key>ENABLECUSTOMFILTERS_DESCRIPTION</key>
+	<string>Mostra filtri personalizzati da Snap +</string>
+	<key>ONECLICKSAVE</key>
+	<string>Salvataggio in un click</string>
+	<key>SPOOF_IS_AM</key>
+	<string>Falsifica AM</string>
+	<key>ADD_REMOVAL</key>
+	<string>Snap + Rimuovi Pubblicità</string>
+	<key>SCPP_ADS_MESSAGE_TITLE</key>
+	<string>Ciao a tutti!</string>
+	<key>MANAGE</key>
+	<string>Controlla</string>
+	<key>INCOMING_MEDIA_DESCRIPTION</key>
+	<string>Immagini/Video autoslavati che hai ricevuto</string>
+	<key>AUTOSAVE_NOTIFICATION</key>
+	<string>Autosalva notifiche</string>
+	<key>CHAT_BLOCK_BUTTON_DESC</key>
+	<string>Aggiungi un pulsante di blocco in alto a sinistra nella chat per bloccare direttamente gli amici.</string>
+	<key>AUTOSAVE_STORIES_DESC</key>
+	<string>Autosalva stories che guardi</string>
+	<key>AUTOSAVEOUTGOING</key>
+	<string>Autosalva snaps in auscita</string>
+	<key>DISABLE_STORIES_AUTOSWITCH</key>
+	<string>Disabilita cambiamento stories</string>
+	<key>TEMPERATURE</key>
+	<string>Temperatura</string>
+	<key>ADDED</key>
+	<string>Aggiunto</string>
+	<key>MAIN_PREFERENCES_HEADER</key>
+	<string>Impostazioni Snapchat +</string>
+	<key>MANAGESETTINGS</key>
+	<string>Impostazioni per la visibilità e il falsamento</string>
+	<key>SC_ADS_MESSAGE_TITLE</key>
+	<string>Ciao a tutti!</string>
+	<key>DELETE_PASSCODE</key>
+	<string>Elimina codice per Snapchat</string>
+	<key>RECORDING_LENGTH_DESC</key>
+	<string>Aumenta lunghezza video da 10 secondi a 50. Per favore notare che inviare lunghi video è un modo per far capire a snapchat che si sta usando un'app do terza parti. Usare con attenzione!</string>
+	<key>SPEED_SPOOF</key>
+	<string>Falsifica Miglia</string>
+	<key>HIDE_STORIES_DESC</key>
+	<string>Abilita per nascondere le Stories</string>
+	<key>ENABLE_MUTED_USERS</key>
+	<string>Abilita silenzia utenti</string>
+	<key>SPOOFTEMPERATUREF</key>
+	<string>Flasifica °F</string>
+	<key>SELECTIVE_AUTOSAVEINCOMING</key>
+	<string>Abiolita autosalvataggio selettivo</string>
+	<key>ALWAYSKEEPSNAPS_DESCRIPTION</key>
+	<string>Gli snaps non spariscono dopo la prima vsualizzazione. Abilita per vedere quante vole si vuole gli snaps.</string>
+	<key>DROPBOXSYNCSETTINGS</key>
+	<string>Impostazioni connesione DropBox</string>
+	<key>SPOOFTEMPERATUREC_DESCRIPTION</key>
+	<string>Svrascrivi e falsifica temperatura °C</string>
+	<key>LOCATION</key>
+	<string>Posto</string>
+	<key>STORIES_MEDIA_VAULT</key>
+	<string>Archivio Stories</string>
+	<key>SECURITY_SETTINGS</key>
+	<string>Impostazioni Sicurezza</string>
+	<key>PASSWORDPROTECTSAVEDMEDIA_DESCRIPTION</key>
+	<string>Inserisci password per vedere gli snaps</string>
+	<key>DEFAULT_VIEW_ONLAUNCH</key>
+	<string></string>
+	<key>PASSWORDPROTECTSAVEDMEDIA</key>
+	<string>Protetto da password</string>
+	<key>SAVED</key>
+	<string>Salvato</string>
+	<key>AD_SETTINGS</key>
+	<string>Impostazioni Rimozione Pubblicità</string>
+	<key>FAR_RIGHT_LAUNCH_VIEW</key>
+	<string>Discover</string>
+	<key>DISABLE_STORIES_AUTOADVANCE_DESC</key>
+	<string>Quando si guardano le stories recenti, non si passerà alle stories di un altro amico</string>
+	<key>PASSCODE_ALREADY_EXISTS</key>
+	<string>Il codice esiste già</string>
+	<key>AUTOLOADSNAPS</key>
+	<string>Disabilita autocaricamento degli Snaps</string>
+	<key>SYNC_WITH_DROPBOX_INCOMING</key>
+	<string>Sincronizza dati in entrata con Dropbox</string>
+	<key>DISABLECAMERASHUTTERSOUND_DESCRIPTION</key>
+	<string>Disabilita suono otturatore fotocamera</string>
+	<key>SHOW_RECORDING_SECONDS_DESC</key>
+	<string>Aggiungi il numero dei secondi mentre si registra il video.</string>
+	<key>SUPPORT_REMOVE_ADS_TITLE</key>
+	<string>Supportaci e rimuovi le pubblicità per $2.00</string>
+	<key>ENABLECUSTOMFACES</key>
+	<string>Abilita facce personalizzate</string>
+	<key>AUTOLOADDISCOVER</key>
+	<string>Disabilita autocaricamento di Discover</string>
+	<key>HIDE_LIVE_STORIES</key>
+	<string>Nscondi Stories Live</string>
+	<key>AUTOLOADSETTINGS</key>
+	<string>Imposazioni Autocaricamento</string>
+	<key>STEALTH_MODE_DESC</key>
+	<string>Abilita per nascondre l'interfaccia del tweak.
+Note: Se abilitato, si può accedere alle impostazioni del tweak dalle impostazioni di snapchat.</string>
+	<key>STORIESSAVESETTINGS_DESCRIPTION</key>
+	<string>Imposta quali stories salvare e dove salvarle</string>
+	<key>MUTED_USERS</key>
+	<string>Utenti Silenziati</string>
+	<key>PRINTED</key>
+	<string>Stampato</string>
+	<key>AUTOSAVE_NOTIFICATION_DESC</key>
+	<string>Mostra una notifica nella status bar quando uno snap viene autosalvato</string>
+	<key>CLEARBADGESONEXIT</key>
+	<string>Pulisci badges alla chiusura</string>
+	<key>DISABLECAMERASHUTTERSOUND</key>
+	<string>Disabilita suono otturatore</string>
+	<key>SAVEDMEDIA</key>
+	<string>Media salvati</string>
+	<key>HOUR</key>
+	<string>Imposta Ora</string>
+	<key>MORE_SETTINGS</key>
+	<string>Conttatta/Altro</string>
+	<key>STORIESSAVESETTINGS</key>
+	<string>Impostazioni Autosalvataggio Stories</string>
+	<key>ENABLECUSTOMFILTERS</key>
+	<string>Abilita Filtri Personalizzati</string>
+	<key>AUTOSAVEINCOMING</key>
+	<string>Autosalva snaps in arrivo</string>
+	<key>ENABLE_TOUCH_ID</key>
+	<string>Abilita TouchID</string>
+	<key>SAVETEXTMESSAGES_DESCRIPTION</key>
+	<string>Autosalva messaggi delle chat</string>
+	<key>USAGE_SETTINGS_DESCRIPTION</key>
+	<string>IMposta come usare Snapchat e Snap +</string>
+	<key>ALWAYSKEEPGROUPSNAPS</key>
+	<string>Viusalizzazione Gruppi Snaps Illimitate</string>
+	<key>SAVETO</key>
+	<string>Salva Media in</string>
+	<key>INCOMING_MEDIA</key>
+	<string>Media in arrivo</string>
+	<key>ENTER_PASSWORD</key>
+	<string>Inserisci codice Snapchat</string>
+	<key>DISABLEISTYPING</key>
+	<string>Disabilita notifiche</string>
+	<key>TYPING_BLACKLIST</key>
+	<string>Blacklist</string>
+	<key>FAILED</key>
+	<string>Fallito</string>
+	<key>HIDE_SNAP_TIMER</key>
+	<string>Nascondi timer snaps</string>
+	<key>ADDITIONAL_SETTINGS</key>
+	<string>Impostazioni Snapchat +</string>
+	<key>PROTECTAPPWITHPASSWORD</key>
+	<string>Abilita Password o TouchID</string>
+	<key>HIDE_SNAP_TIMER_DESC</key>
+	<string>Nascondi timer snap mentre si guarda</string>
+	<key>DONTSENDSTORYREADREQUEST</key>
+	<string>Non inviare conferme di visione stories</string>
+	<key>DROPBOXSYNCSETTINGS_DESCRIPTION</key>
+	<string>Impostazioni per gli account Dropbox connessi</string>
+	<key>SPEED</key>
+	<string>Imposta Kilometri</string>
+	<key>SPOOFTEMPERATUREC</key>
+	<string>Flasifica °C</string>
+	<key>DISABLEISTYPING_WHITELIST_DESCRIPTION</key>
+	<string>solo i contatti nella Whitelist riceveranno la notifica &apos;Sta scrivendo&apos;</string>
+	<key>APPEARANCE_SETTINGS_DESCRIPTION</key>
+	<string>Imposta aspetto di Snapchat e Snap +</string>
+	<key>DISABLEISTYPING_DESCRIPTION</key>
+	<string>Gli altri non riceveranno la notifica &apos;Sta scrivendo&apos;</string>
+	<key>DELETE_PASSCODE_TO_SET_NEW</key>
+	<string>Per impostarne uno nuovo, prima si elimini quello esistente</string>
+</dict>
+</plist>
