@@ -99,15 +99,15 @@
 	<key>DISABLEHOLDTOVIEW</key>
 	<string>Disable Hold To View</string>
 	<key>DISABLEHOLDTOVIEW_DESCRIPTION</key>
-	<string>No longer have to hold the image/video to view. When enabled, click on &#39;X&#39; at bottom left of screen to exit image/video w/o marking as read or the eye symbol to mark as read.</string>
+	<string>No longer have to hold the image/video to view. When enabled, click on &apos;X&apos; at bottom left of screen to exit image/video w/o marking as read or the eye symbol to mark as read.</string>
 	<key>DISABLEISTYPING</key>
 	<string>Disable typing notifications</string>
 	<key>DISABLEISTYPING_BLACKLIST_DESCRIPTION</key>
-	<string>Everyone except blacklisted contacts will receive &#39;Is Typing&#39; receipts</string>
+	<string>Everyone except blacklisted contacts will receive &apos;Is Typing&apos; receipts</string>
 	<key>DISABLEISTYPING_DESCRIPTION</key>
-	<string>Others won&#39;t receive the &#39;Is Typing&#39; receipt</string>
+	<string>Others won&apos;t receive the &apos;Is Typing&apos; receipt</string>
 	<key>DISABLEISTYPING_WHITELIST_DESCRIPTION</key>
-	<string>Only whitelisted contacts will receive &#39;Is Typing&#39; receipts</string>
+	<string>Only whitelisted contacts will receive &apos;Is Typing&apos; receipts</string>
 	<key>DISABLE_EVENT_LOGGING</key>
 	<string>Disable Event Logging</string>
 	<key>DISABLE_EVENT_LOGGING_DESC</key>
@@ -133,9 +133,9 @@
 	<key>DISABLE_STORIES_REDESIGN_DESC</key>
 	<string>Disable the new story redesign and use the old design instead</string>
 	<key>DONTSENDSTORYREADREQUEST</key>
-	<string>Don&#39;t send story read request</string>
+	<string>Don&apos;t send story read request</string>
 	<key>DONTSENDSTORYREADREQUEST_DESCRIPTION</key>
-	<string>Your friend won&#39;t see that you have viewed their story</string>
+	<string>Your friend won&apos;t see that you have viewed their story</string>
 	<key>DROPBOXSYNCSETTINGS</key>
 	<string>DropBox Linking Settings</string>
 	<key>DROPBOXSYNCSETTINGS_DESCRIPTION</key>
@@ -176,6 +176,8 @@
 	<string>Filter and Faces Settings</string>
 	<key>FILTERFACESSETTINGS_DESCRIPTION</key>
 	<string>Change settings for custom filters and faces</string>
+	<key>FILTERS_HEADER</key>
+	<string>Filters</string>
 	<key>GP_SAVE_TO_ALBUM</key>
 	<string>Save to Phone Album</string>
 	<key>GP_SAVE_TO_CAMERA_ROLL</key>
@@ -210,6 +212,8 @@
 	<string>Snapchat + settings</string>
 	<key>MANAGE</key>
 	<string>Manage</string>
+	<key>MANAGE_AVAILABLE_FILTERS</key>
+	<string>Manage Available Filters</string>
 	<key>MANAGESETTINGS</key>
 	<string>Visibility and Spoofings Settings</string>
 	<key>MANAGESETTINGS_DESCRIPTION</key>
@@ -258,6 +262,8 @@
 	<string>Thanks!</string>
 	<key>POSTED</key>
 	<string>Posted</string>
+	<key>PREVIEW_FILTERS_CAMERA</key>
+	<string>Preview Filters on Camera</string>
 	<key>PRINTED</key>
 	<string>Printed</string>
 	<key>PRIVACY_SETTINGS</key>
@@ -295,11 +301,11 @@
 	<key>SAVING</key>
 	<string>Saving</string>
 	<key>SCPP_ADS_MESSAGE</key>
-	<string>To support our development of Snap + as a free product, we&#39;ve set it up to display ads at the top of your Snapchat app while you view a snap. If you want to remove the ads you can tweet from the app for a 2 week removal or donate $2 for a lifetime license. Thanks for your support!</string>
+	<string>To support our development of Snap + as a free product, we&apos;ve set it up to display ads at the top of your Snapchat app while you view a snap. If you want to remove the ads you can tweet from the app for a 2 week removal or donate $2 for a lifetime license. Thanks for your support!</string>
 	<key>SCPP_ADS_MESSAGE_TITLE</key>
 	<string>Hey There!</string>
 	<key>SC_ADS_MESSAGE</key>
-	<string>To support our development of SC + as a free product, we&#39;ve set it up to display ads near the top of your Snapchat app. If you want to remove the ads you can tweet from the app for a 2 week removal or donate $2 for a lifetime license. Thanks for your support!</string>
+	<string>To support our development of SC + as a free product, we&apos;ve set it up to display ads near the top of your Snapchat app. If you want to remove the ads you can tweet from the app for a 2 week removal or donate $2 for a lifetime license. Thanks for your support!</string>
 	<key>SC_ADS_MESSAGE_TITLE</key>
 	<string>Hey There!</string>
 	<key>SC_MOHADU_MESSAGE</key>
@@ -371,7 +377,7 @@
 	<key>STEALTH_MODE</key>
 	<string>Hidden Tweak</string>
 	<key>STEALTH_MODE_DESC</key>
-	<string>Enable to hide all tweak&#39;s UI elements.
+	<string>Enable to hide all tweak&apos;s UI elements.
 	Note: if enabled, you can access the tweak preferences from snapchap settings.</string>
 	<key>STORIESSAVESETTINGS</key>
 	<string>Stories Autosave Settings</string>
@@ -416,9 +422,21 @@
 	<key>TYPING_WHITELIST</key>
 	<string>Whitelist</string>
 	<key>UA_PPTTWEAK_TWEET_PROMO_TEXT</key>
-	<string>I&#39;m using Snap + for Snapchat by @AbcAppsLLC to add new features to Snapchat!</string>
+	<string>I&apos;m using Snap + for Snapchat by @AbcAppsLLC to add new features to Snapchat!</string>
 	<key>USAGE_SETTINGS</key>
 	<string>Usage Settings</string>
+	<key>UNLINK_DROPBOX</key>
+	<string>Unlink Dropbox</string>
+	<key>LINK_DROPBOX</key>
+	<string>Link Dropbox</string>
+	<key>DROPBOX_FOOTER</key>
+	<string>Sync your document directory with dropbox</string>
+	<key>DROPBOX_APP_LINKED</key>
+	<string>App is linked with Dropbox</string>
+	<key>SYNC</key>
+	<string>Sync</string>
+	<key>SYNC_FOOTER</key>
+	<string>Sync your document directory</string>
 	<key>USAGE_SETTINGS_DESCRIPTION</key>
 	<string>Manage how you use Snapchat and Snap +</string>
 	<key>WARNING</key>
