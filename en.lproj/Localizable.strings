@@ -433,6 +433,22 @@
 	<string>Sync your document directory with dropbox</string>
 	<key>DROPBOX_APP_LINKED</key>
 	<string>App is linked with Dropbox</string>
+	<key>DROPBOX_DEVICE_NOT_PRIMARY_MESSAGE</key>
+	<string>Device is not Primary, no files will be uploaded, only new files will download.</string>
+	<key>DROPBOX_SYNC_LOCALLY</key>
+	<string>Sync files locally</string>
+	<key>DROPBOX_DEVICE_PRIMARY</key>
+	<string>This device is Primary</string>
+	<key>DROPBOX_SET_DEVICE_PRIMARY</key>
+	<string>Set Device as Primary</string>
+	<key>DROPBOX_REMOVE_DEVICE_PRIMARY</key>
+	<string>Remove Device as Primary</string>
+	<key>DROPBOX_DEVICE_IS_NOT_PRIMARY</key>
+	<string>This device is not Primary</string>
+	<key>DROPBOX_DEVICE_NO_PRIMARY</key>
+	<string>No Primary Device</string>
+	<key>DROPBOX_CURRENT_PRIMARY_DEVICE</key>
+	<string>Current Primary Device: %@</string>
 	<key>SYNC</key>
 	<string>Sync</string>
 	<key>SYNC_FOOTER</key>
