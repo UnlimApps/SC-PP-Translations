@@ -35,7 +35,7 @@
 	<key>AUTOLOADDISCOVER</key>
 	<string>Disable Autoload of Discover</string>
 	<key>AUTOLOADDISCOVER_DESCRIPTION</key>
-	<string>Turned on by default in Snapcat. Activate this switch to manually download discover items</string>
+	<string>Turned on by default in Snapchat. Activate this switch to manually download discover items</string>
 	<key>AUTOLOADSETTINGS</key>
 	<string>Autoload Settings</string>
 	<key>AUTOLOADSETTINGS_DESCRIPTION</key>
@@ -43,11 +43,11 @@
 	<key>AUTOLOADSNAPS</key>
 	<string>Disable Autoload of Snaps</string>
 	<key>AUTOLOADSNAPS_DESCRIPTION</key>
-	<string>Turned on by default in Snapcat. Activate switch to manually download snaps</string>
+	<string>Turned on by default in Snapchat. Activate switch to manually download snaps</string>
 	<key>AUTOLOADSTORIES</key>
 	<string>Disable Autoload of Stories</string>
 	<key>AUTOLOADSTORIES_DESCRIPTION</key>
-	<string>Turned on by default in Snapcat. Activate this switch to manually download stories</string>
+	<string>Turned on by default in Snapchat. Activate this switch to manually download stories</string>
 	<key>AUTOSAVEINCOMING</key>
 	<string>Autosave incoming snaps</string>
 	<key>AUTOSAVEINCOMING_DESCRIPTION</key>
